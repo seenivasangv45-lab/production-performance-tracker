@@ -1,0 +1,39 @@
+EMP ID,Name,Process,Primary Reporting Name,Production,No. of Transaction Audited,Sampling%,No. of Errors,Quality Score
+1165,Mahalaksmi B,Denial,Arun Kumar,296,44,15%,0,100.00%
+1356,Sam Renswick,Payment Posting,Vijay,3266,641,20%,0,100.00%
+1362,Udhaya Kumar R,Denial,Arun Kumar,410,68,17%,0,100.00%
+1533,Aarthi Amuthavel,Denial,Arun Kumar,59,6,10%,0,100.00%
+1481,Bharath Kumar K,Payment Posting,Vijay,31469,2636,8%,1,99.96%
+1461,Selvakumar S,Payment Posting,Vijay,26795,2731,10%,3,99.89%
+1453,Dhanasekar K,Payment Posting,Vijay,28557,2556,9%,3,99.88%
+1460,Viswas J,Payment Posting,Vijay,22091,2345,11%,3,99.87%
+1322,Vikashini S,Payment Posting,Vijay,6207,575,9%,1,99.83%
+1456,Alwin A,Payment Posting,Vijay,22071,2070,9%,5,99.76%
+1455,Sandeep K,Payment Posting,Vijay,2971,364,12%,1,99.73%
+1341,Kaleeswari,Payment Posting,Vijay,21658,1983,9%,9,99.55%
+1459,Karthik P,Payment Posting,Vijay,3315,390,12%,2,99.49%
+1122,Janika M,Demo And Charge,Anburaj,3481,347,10%,2,99.42%
+1526,Manjeeswari S,Demo And Charge,Anburaj,50,104,208%,1,99.04%
+1518,Thenmozhi S,Demo And Charge,Anburaj,2497,341,14%,4,98.83%
+1027,Prajeesh R,Demo And Charge,Anburaj,4511,459,10%,6,98.69%
+1267,Bharathy S,Denial,Arun Kumar,462,69,15%,1,98.55%
+793,Sushmitha B,Demo And Charge,Anburaj,3834,414,11%,9,97.83%
+1538,Kanimozhi M,Demo And Charge,Anburaj,2640,317,12%,7,97.79%
+1504,Thomas Kutty A,Denial,Arun Kumar,234,45,19%,1,97.78%
+1059,Karthik K,Demo And Charge,Anburaj,3002,306,10%,7,97.71%
+1156,Nivin J,Demo And Charge,Anburaj,857,81,9%,2,97.53%
+959,Pooja M,Demo And Charge,Anburaj,274,476,174%,12,97.48%
+1349,Monija M T,Demo And Charge,Anburaj,2621,267,10%,8,97.00%
+1262,Vicram C S,Demo And Charge,Anburaj,180,290,161%,9,96.90%
+1036,Rekha A,Demo And Charge,Anburaj,4725,477,10%,16,96.65%
+870,Gokilavani M,Demo And Charge,Anburaj,4714,480,10%,18,96.25%
+1055,Venkatesh S,Demo And Charge,Anburaj,1537,156,10%,6,96.15%
+1412,Surendran S,Payment Posting,Vijay,3065,724,24%,38,94.75%
+1525,Harish Ramalingam,Demo And Charge,Anburaj,798,83,10%,5,93.98%
+1359,Sureya S,Denial,Arun Kumar,414,65,16%,4,93.85%
+1360,Ashwanth Kumar A,Denial,Arun Kumar,338,64,19%,4,93.75%
+1398,Kaviya S,Denial,Arun Kumar,369,56,15%,5,91.07%
+1056,Ketharnath Yogaraj,Demo And Charge,Anburaj,97,11,11%,1,90.91%
+1361,Barath S,Denial,Arun Kumar,398,64,16%,6,90.63%
+791,Gogul Prasanth K,Demo And Charge,Anburaj,742,83,11%,13,84.34%
+1132,Dhanalakshmi P,Denial,Arun Kumar,55,6,11%,1,83.33%

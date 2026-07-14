@@ -1,0 +1,475 @@
+EmpID,Process Name,Date,Attendance Count,Total Working day,Shrinkage,Present,Absent
+RMCB 1007,Quality Team Production,April,19,22,86%,-3,-29%
+RMCB 1007,Quality Team Production,May,19,22,86%,-3,-29%
+RMCB 1007,Quality Team Production,June,9,22,41%,-13,-3%
+RMCB 1010,SB,April,21,22,95%,-1,-95%
+RMCB 1010,SB,May,20,22,91%,-2,-45%
+RMCB 1010,SB,June,10,22,45%,-12,-4%
+RMCB 1027,SB,April,19,22,86%,-3,-29%
+RMCB 1027,SB,May,21,22,95%,-1,-95%
+RMCB 1027,SB,June,8,22,36%,-14,-3%
+RMCB 1048,SB,April,20,22,91%,-2,-45%
+RMCB 1048,SB,May,21,22,95%,-1,-95%
+RMCB 1048,SB,June,9,22,41%,-13,-3%
+RMCB 1055,SB,April,20,22,91%,-2,-45%
+RMCB 1055,SB,May,18,22,82%,-4,-20%
+RMCB 1055,SB,June,9,22,41%,-13,-3%
+RMCB 1056,SB,April,7,22,32%,-15,-2%
+RMCB 1056,SB,May,19,22,86%,-3,-29%
+RMCB 1056,SB,June,8,22,36%,-14,-3%
+RMCB 1059,SB,April,21,22,95%,-1,-95%
+RMCB 1059,SB,May,21,22,95%,-1,-95%
+RMCB 1059,SB,June,10,22,45%,-12,-4%
+RMCB 1062,Payment Posting,April,20,22,91%,-2,-45%
+RMCB 1062,Payment Posting,May,17,22,77%,-5,-15%
+RMCB 1062,Payment Posting,June,10,22,45%,-12,-4%
+RMCB 1073,Quality Team Production,April,21,22,95%,-1,-95%
+RMCB 1073,Quality Team Production,May,19,22,86%,-3,-29%
+RMCB 1073,Quality Team Production,June,10,22,45%,-12,-4%
+RMCB 1084,Extraction,April,21,22,95%,-1,-95%
+RMCB 1084,Extraction,May,21,22,95%,-1,-95%
+RMCB 1084,Extraction,June,15,22,68%,-7,-10%
+RMCB 1116,Payment Posting,April,11,22,50%,-11,-5%
+RMCB 1116,Payment Posting,May,17,22,77%,-5,-15%
+RMCB 1116,Payment Posting,June,10,22,45%,-12,-4%
+RMCB 1122,SB,April,19,22,86%,-3,-29%
+RMCB 1122,SB,May,21,22,95%,-1,-95%
+RMCB 1122,SB,June,8,22,36%,-14,-3%
+RMCB 1125,SB,April,21,22,95%,-1,-95%
+RMCB 1125,SB,May,20,22,91%,-2,-45%
+RMCB 1125,SB,June,9,22,41%,-13,-3%
+RMCB 1156,SB,April,21,22,95%,-1,-95%
+RMCB 1156,SB,May,18,22,82%,-4,-20%
+RMCB 1156,SB,June,9,22,41%,-13,-3%
+RMCB 1160,Payment Posting,April,21,22,95%,-1,-95%
+RMCB 1160,Payment Posting,May,22,22,100%,0,#DIV/0!
+RMCB 1160,Payment Posting,June,7,22,32%,-15,-2%
+RMCB 1165,Denial Management,April,18,22,82%,-4,-20%
+RMCB 1165,Denial Management,May,20,22,91%,-2,-45%
+RMCB 1165,Denial Management,June,10,22,45%,-12,-4%
+RMCB 1167,Quality Team Production,April,22,22,100%,0,#DIV/0!
+RMCB 1167,Quality Team Production,May,19,22,86%,-3,-29%
+RMCB 1167,Quality Team Production,June,10,22,45%,-12,-4%
+RMCB 1171,SB,April,20,22,91%,-2,-45%
+RMCB 1171,SB,May,21,22,95%,-1,-95%
+RMCB 1171,SB,June,14,22,64%,-8,-8%
+RMCB 1182,Payment Posting,April,20,22,91%,-2,-45%
+RMCB 1182,Payment Posting,May,21,22,95%,-1,-95%
+RMCB 1182,Payment Posting,June,7,22,32%,-15,-2%
+RMCB 1191,SB,April,18,22,82%,-4,-20%
+RMCB 1191,SB,May,18,22,82%,-4,-20%
+RMCB 1191,SB,June,11,22,50%,-11,-5%
+RMCB 1193,Quality Team Production,April,21,22,95%,-1,-95%
+RMCB 1193,Quality Team Production,May,19,22,86%,-3,-29%
+RMCB 1193,Quality Team Production,June,10,22,45%,-12,-4%
+RMCB 1196,Denial Management,April,20,22,91%,-2,-45%
+RMCB 1196,Denial Management,May,13,22,59%,-9,-7%
+RMCB 1208,AR Calling,April,22,22,100%,0,#DIV/0!
+RMCB 1208,AR Calling,May,18,22,82%,-4,-20%
+RMCB 1208,AR Calling,June,15,22,68%,-7,-10%
+RMCB 1217,SB,April,9,22,41%,-13,-3%
+RMCB 1217,SB,May,3,22,14%,-19,-1%
+RMCB 1217,SB,June,3,22,14%,-19,-1%
+RMCB 1231,SB,April,20,22,91%,-2,-45%
+RMCB 1231,SB,May,20,22,91%,-2,-45%
+RMCB 1231,SB,June,13,22,59%,-9,-7%
+RMCB 1242,Quality Team Production,April,20,22,91%,-2,-45%
+RMCB 1242,Quality Team Production,May,19,22,86%,-3,-29%
+RMCB 1242,Quality Team Production,June,8,22,36%,-14,-3%
+RMCB 1255,SB,April,20,22,91%,-2,-45%
+RMCB 1255,SB,May,19,22,86%,-3,-29%
+RMCB 1255,SB,June,8,22,36%,-14,-3%
+RMCB 1256,SB,April,18,22,82%,-4,-20%
+RMCB 1256,SB,May,20,22,91%,-2,-45%
+RMCB 1256,SB,June,9,22,41%,-13,-3%
+RMCB 1261,Denial Management,April,19,22,86%,-3,-29%
+RMCB 1261,Denial Management,May,12,22,55%,-10,-5%
+RMCB 1265,Denial Management,April,20,22,91%,-2,-45%
+RMCB 1265,Denial Management,May,20,22,91%,-2,-45%
+RMCB 1265,Denial Management,June,9,22,41%,-13,-3%
+RMCB 1266,Denial Management,April,19,22,86%,-3,-29%
+RMCB 1266,Denial Management,May,21,22,95%,-1,-95%
+RMCB 1266,Denial Management,June,9,22,41%,-13,-3%
+RMCB 1267,Denial Management,April,22,22,100%,0,#DIV/0!
+RMCB 1267,Denial Management,May,20,22,91%,-2,-45%
+RMCB 1267,Denial Management,June,10,22,45%,-12,-4%
+RMCB 1268,Denial Management,June,15,22,68%,-7,-10%
+RMCB 1273,SB,June,9,22,41%,-13,-3%
+RMCB 1281,Payment Posting,April,20,22,91%,-2,-45%
+RMCB 1281,Payment Posting,May,21,22,95%,-1,-95%
+RMCB 1281,Payment Posting,June,7,22,32%,-15,-2%
+RMCB 1282,SB,April,20,22,91%,-2,-45%
+RMCB 1282,SB,May,21,22,95%,-1,-95%
+RMCB 1282,SB,June,15,22,68%,-7,-10%
+RMCB 1286,Payment Posting,April,21,22,95%,-1,-95%
+RMCB 1286,Payment Posting,May,19,22,86%,-3,-29%
+RMCB 1286,Payment Posting,June,15,22,68%,-7,-10%
+RMCB 1287,Payment Posting,April,20,22,91%,-2,-45%
+RMCB 1287,Payment Posting,May,21,22,95%,-1,-95%
+RMCB 1287,Payment Posting,June,15,22,68%,-7,-10%
+RMCB 1288,Payment Posting,May,20,22,91%,-2,-45%
+RMCB 1288,Payment Posting,June,5,22,23%,-17,-1%
+RMCB 1289,Payment Posting,May,21,22,95%,-1,-95%
+RMCB 1289,Payment Posting,June,4,22,18%,-18,-1%
+RMCB 1298,Quality Team Production,April,21,22,95%,-1,-95%
+RMCB 1298,Quality Team Production,May,19,22,86%,-3,-29%
+RMCB 1298,Quality Team Production,June,9,22,41%,-13,-3%
+RMCB 1301,SB,April,20,22,91%,-2,-45%
+RMCB 1301,SB,May,20,22,91%,-2,-45%
+RMCB 1301,SB,June,9,22,41%,-13,-3%
+RMCB 1311,SB,April,19,22,86%,-3,-29%
+RMCB 1311,SB,May,22,22,100%,0,#DIV/0!
+RMCB 1311,SB,June,9,22,41%,-13,-3%
+RMCB 1312,SB,April,20,22,91%,-2,-45%
+RMCB 1312,SB,May,21,22,95%,-1,-95%
+RMCB 1312,SB,June,14,22,64%,-8,-8%
+RMCB 1321,Payment Posting,April,20,22,91%,-2,-45%
+RMCB 1321,Payment Posting,May,20,22,91%,-2,-45%
+RMCB 1321,Payment Posting,June,15,22,68%,-7,-10%
+RMCB 1322,Payment Posting,April,19,22,86%,-3,-29%
+RMCB 1322,Payment Posting,May,18,22,82%,-4,-20%
+RMCB 1322,Payment Posting,June,10,22,45%,-12,-4%
+RMCB 1341,Payment Posting,April,16,22,73%,-6,-12%
+RMCB 1341,Payment Posting,May,19,22,86%,-3,-29%
+RMCB 1341,Payment Posting,June,10,22,45%,-12,-4%
+RMCB 1343,Denial Management,April,20,22,91%,-2,-45%
+RMCB 1343,Denial Management,May,20,22,91%,-2,-45%
+RMCB 1343,Denial Management,June,9,22,41%,-13,-3%
+RMCB 1344,Denial Management,April,20,22,91%,-2,-45%
+RMCB 1344,Denial Management,May,20,22,91%,-2,-45%
+RMCB 1344,Denial Management,June,9,22,41%,-13,-3%
+RMCB 1348,Denial Management,April,19,22,86%,-3,-29%
+RMCB 1348,Denial Management,May,18,22,82%,-4,-20%
+RMCB 1348,Denial Management,June,11,22,50%,-11,-5%
+RMCB 1356,Payment Posting,April,21,22,95%,-1,-95%
+RMCB 1356,Payment Posting,May,21,22,95%,-1,-95%
+RMCB 1356,Payment Posting,June,10,22,45%,-12,-4%
+RMCB 1359,Denial Management,April,21,22,95%,-1,-95%
+RMCB 1359,Denial Management,May,19,22,86%,-3,-29%
+RMCB 1359,Denial Management,June,9,22,41%,-13,-3%
+RMCB 1360,Denial Management,April,20,22,91%,-2,-45%
+RMCB 1360,Denial Management,May,18,22,82%,-4,-20%
+RMCB 1360,Denial Management,June,9,22,41%,-13,-3%
+RMCB 1361,Denial Management,April,21,22,95%,-1,-95%
+RMCB 1361,Denial Management,May,18,22,82%,-4,-20%
+RMCB 1361,Denial Management,June,9,22,41%,-13,-3%
+RMCB 1362,Denial Management,April,21,22,95%,-1,-95%
+RMCB 1362,Denial Management,May,18,22,82%,-4,-20%
+RMCB 1362,Denial Management,June,9,22,41%,-13,-3%
+RMCB 1367,Denial Management,April,20,22,91%,-2,-45%
+RMCB 1367,Denial Management,May,20,22,91%,-2,-45%
+RMCB 1367,Denial Management,June,14,22,64%,-8,-8%
+RMCB 1370,Denial Management,June,13,22,59%,-9,-7%
+RMCB 1377,Payment Posting,April,23,22,105%,1,105%
+RMCB 1377,Payment Posting,May,21,22,95%,-1,-95%
+RMCB 1377,Payment Posting,June,9,22,41%,-13,-3%
+RMCB 1383,SB,April,17,22,77%,-5,-15%
+RMCB 1383,SB,May,21,22,95%,-1,-95%
+RMCB 1383,SB,June,11,22,50%,-11,-5%
+RMCB 1384,SB,April,20,22,91%,-2,-45%
+RMCB 1384,SB,May,18,22,82%,-4,-20%
+RMCB 1384,SB,June,15,22,68%,-7,-10%
+RMCB 1387,SB,June,8,22,36%,-14,-3%
+RMCB 1389,SB,April,21,22,95%,-1,-95%
+RMCB 1389,SB,May,20,22,91%,-2,-45%
+RMCB 1389,SB,June,14,22,64%,-8,-8%
+RMCB 1393,Quality Team Production,April,19,22,86%,-3,-29%
+RMCB 1393,Quality Team Production,May,17,22,77%,-5,-15%
+RMCB 1393,Quality Team Production,June,9,22,41%,-13,-3%
+RMCB 1394,Denial Management,April,20,22,91%,-2,-45%
+RMCB 1394,Denial Management,May,21,22,95%,-1,-95%
+RMCB 1394,Denial Management,June,10,22,45%,-12,-4%
+RMCB 1395,Denial Management,April,21,22,95%,-1,-95%
+RMCB 1395,Denial Management,May,19,22,86%,-3,-29%
+RMCB 1395,Denial Management,June,10,22,45%,-12,-4%
+RMCB 1396,Denial Management,April,21,22,95%,-1,-95%
+RMCB 1396,Denial Management,May,20,22,91%,-2,-45%
+RMCB 1396,Denial Management,June,6,22,27%,-16,-2%
+RMCB 1398,Denial Management,April,18,22,82%,-4,-20%
+RMCB 1398,Denial Management,May,19,22,86%,-3,-29%
+RMCB 1398,Denial Management,June,8,22,36%,-14,-3%
+RMCB 1400,Denial Management,April,21,22,95%,-1,-95%
+RMCB 1400,Denial Management,May,21,22,95%,-1,-95%
+RMCB 1400,Denial Management,June,10,22,45%,-12,-4%
+RMCB 1401,Denial Management,April,22,22,100%,0,#DIV/0!
+RMCB 1401,Denial Management,May,18,22,82%,-4,-20%
+RMCB 1401,Denial Management,June,11,22,50%,-11,-5%
+RMCB 1412,Payment Posting,April,21,22,95%,-1,-95%
+RMCB 1412,Payment Posting,May,19,22,86%,-3,-29%
+RMCB 1412,Payment Posting,June,9,22,41%,-13,-3%
+RMCB 1421,Extraction,April,21,22,95%,-1,-95%
+RMCB 1421,Extraction,May,19,22,86%,-3,-29%
+RMCB 1421,Extraction,June,10,22,45%,-12,-4%
+RMCB 1422,SB,April,6,22,27%,-16,-2%
+RMCB 1422,SB,May,18,22,82%,-4,-20%
+RMCB 1422,SB,June,13,22,59%,-9,-7%
+RMCB 1435,Payment Posting,April,22,22,100%,0,#DIV/0!
+RMCB 1435,Payment Posting,May,21,22,95%,-1,-95%
+RMCB 1435,Payment Posting,June,8,22,36%,-14,-3%
+RMCB 1441,Payment Posting,April,20,22,91%,-2,-45%
+RMCB 1441,Payment Posting,May,21,22,95%,-1,-95%
+RMCB 1441,Payment Posting,June,15,22,68%,-7,-10%
+RMCB 1443,Payment Posting,April,20,22,91%,-2,-45%
+RMCB 1443,Payment Posting,May,21,22,95%,-1,-95%
+RMCB 1443,Payment Posting,June,13,22,59%,-9,-7%
+RMCB 1444,Payment Posting,April,21,22,95%,-1,-95%
+RMCB 1444,Payment Posting,May,20,22,91%,-2,-45%
+RMCB 1444,Payment Posting,June,8,22,36%,-14,-3%
+RMCB 1445,Denial Management,April,21,22,95%,-1,-95%
+RMCB 1445,Denial Management,May,21,22,95%,-1,-95%
+RMCB 1445,Denial Management,June,13,22,59%,-9,-7%
+RMCB 1446,Extraction,April,22,22,100%,0,#DIV/0!
+RMCB 1446,Extraction,June,4,22,18%,-18,-1%
+RMCB 1447,Denial Management,April,15,22,68%,-7,-10%
+RMCB 1447,Denial Management,May,18,22,82%,-4,-20%
+RMCB 1447,Denial Management,June,9,22,41%,-13,-3%
+RMCB 1447,SB,April,2,22,9%,-20,0%
+RMCB 1447,SB,May,10,22,45%,-12,-4%
+RMCB 1447,SB,June,5,22,23%,-17,-1%
+RMCB 1448,Denial Management,May,4,22,18%,-18,-1%
+RMCB 1448,Denial Management,June,6,22,27%,-16,-2%
+RMCB 1448,SB,April,21,22,95%,-1,-95%
+RMCB 1448,SB,May,21,22,95%,-1,-95%
+RMCB 1448,SB,June,9,22,41%,-13,-3%
+RMCB 1450,Payment Posting,April,21,22,95%,-1,-95%
+RMCB 1450,Payment Posting,May,19,22,86%,-3,-29%
+RMCB 1450,Payment Posting,June,9,22,41%,-13,-3%
+RMCB 1451,Payment Posting,April,17,22,77%,-5,-15%
+RMCB 1451,Payment Posting,May,12,22,55%,-10,-5%
+RMCB 1451,Payment Posting,June,7,22,32%,-15,-2%
+RMCB 1452,Payment Posting,April,20,22,91%,-2,-45%
+RMCB 1452,Payment Posting,May,17,22,77%,-5,-15%
+RMCB 1452,Payment Posting,June,10,22,45%,-12,-4%
+RMCB 1453,Payment Posting,April,21,22,95%,-1,-95%
+RMCB 1453,Payment Posting,May,19,22,86%,-3,-29%
+RMCB 1453,Payment Posting,June,8,22,36%,-14,-3%
+RMCB 1454,Payment Posting,April,22,22,100%,0,#DIV/0!
+RMCB 1454,Payment Posting,May,19,22,86%,-3,-29%
+RMCB 1454,Payment Posting,June,9,22,41%,-13,-3%
+RMCB 1455,Payment Posting,April,20,22,91%,-2,-45%
+RMCB 1455,Payment Posting,May,18,22,82%,-4,-20%
+RMCB 1455,Payment Posting,June,10,22,45%,-12,-4%
+RMCB 1456,Payment Posting,April,20,22,91%,-2,-45%
+RMCB 1456,Payment Posting,May,18,22,82%,-4,-20%
+RMCB 1456,Payment Posting,June,10,22,45%,-12,-4%
+RMCB 1459,Payment Posting,April,22,22,100%,0,#DIV/0!
+RMCB 1459,Payment Posting,May,21,22,95%,-1,-95%
+RMCB 1459,Payment Posting,June,10,22,45%,-12,-4%
+RMCB 1460,Payment Posting,April,22,22,100%,0,#DIV/0!
+RMCB 1460,Payment Posting,May,18,22,82%,-4,-20%
+RMCB 1460,Payment Posting,June,9,22,41%,-13,-3%
+RMCB 1461,Payment Posting,April,21,22,95%,-1,-95%
+RMCB 1461,Payment Posting,May,20,22,91%,-2,-45%
+RMCB 1461,Payment Posting,June,8,22,36%,-14,-3%
+RMCB 1474,Denial Management,June,9,22,41%,-13,-3%
+RMCB 1481,Payment Posting,April,19,22,86%,-3,-29%
+RMCB 1481,Payment Posting,May,20,22,91%,-2,-45%
+RMCB 1481,Payment Posting,June,9,22,41%,-13,-3%
+RMCB 1484,Denial Management,April,21,22,95%,-1,-95%
+RMCB 1484,Denial Management,May,21,22,95%,-1,-95%
+RMCB 1484,Denial Management,June,9,22,41%,-13,-3%
+RMCB 1484,Payment Posting,April,21,22,95%,-1,-95%
+RMCB 1484,Payment Posting,May,20,22,91%,-2,-45%
+RMCB 1484,Payment Posting,June,9,22,41%,-13,-3%
+RMCB 1500,Denial Management,April,19,22,86%,-3,-29%
+RMCB 1500,Denial Management,May,22,22,100%,0,#DIV/0!
+RMCB 1500,Denial Management,June,10,22,45%,-12,-4%
+RMCB 1504,Denial Management,April,20,22,91%,-2,-45%
+RMCB 1504,Denial Management,May,20,22,91%,-2,-45%
+RMCB 1504,Denial Management,June,9,22,41%,-13,-3%
+RMCB 1505,AR Calling,April,21,22,95%,-1,-95%
+RMCB 1505,AR Calling,May,17,22,77%,-5,-15%
+RMCB 1505,AR Calling,June,15,22,68%,-7,-10%
+RMCB 1507,SB,April,20,22,91%,-2,-45%
+RMCB 1507,SB,May,21,22,95%,-1,-95%
+RMCB 1507,SB,June,9,22,41%,-13,-3%
+RMCB 1509,SB,April,20,22,91%,-2,-45%
+RMCB 1509,SB,May,21,22,95%,-1,-95%
+RMCB 1509,SB,June,14,22,64%,-8,-8%
+RMCB 1510,SB,April,20,22,91%,-2,-45%
+RMCB 1510,SB,May,19,22,86%,-3,-29%
+RMCB 1510,SB,June,14,22,64%,-8,-8%
+RMCB 1511,Extraction,April,19,22,86%,-3,-29%
+RMCB 1511,Extraction,May,20,22,91%,-2,-45%
+RMCB 1511,Extraction,June,9,22,41%,-13,-3%
+RMCB 1512,SB,April,14,22,64%,-8,-8%
+RMCB 1512,SB,May,15,22,68%,-7,-10%
+RMCB 1512,SB,June,14,22,64%,-8,-8%
+RMCB 1515,Payment Posting,April,20,22,91%,-2,-45%
+RMCB 1515,Payment Posting,May,19,22,86%,-3,-29%
+RMCB 1515,Payment Posting,June,11,22,50%,-11,-5%
+RMCB 1516,Payment Posting,April,17,22,77%,-5,-15%
+RMCB 1516,Payment Posting,May,21,22,95%,-1,-95%
+RMCB 1516,Payment Posting,June,10,22,45%,-12,-4%
+RMCB 1517,SB,April,20,22,91%,-2,-45%
+RMCB 1517,SB,May,21,22,95%,-1,-95%
+RMCB 1517,SB,June,14,22,64%,-8,-8%
+RMCB 1518,SB,April,22,22,100%,0,#DIV/0!
+RMCB 1518,SB,May,21,22,95%,-1,-95%
+RMCB 1518,SB,June,10,22,45%,-12,-4%
+RMCB 1520,SB,April,20,22,91%,-2,-45%
+RMCB 1520,SB,May,21,22,95%,-1,-95%
+RMCB 1520,SB,June,14,22,64%,-8,-8%
+RMCB 1525,SB,April,21,22,95%,-1,-95%
+RMCB 1525,SB,May,19,22,86%,-3,-29%
+RMCB 1525,SB,June,10,22,45%,-12,-4%
+RMCB 1526,SB,April,19,22,86%,-3,-29%
+RMCB 1526,SB,May,21,22,95%,-1,-95%
+RMCB 1526,SB,June,9,22,41%,-13,-3%
+RMCB 1527,Denial Management,June,8,22,36%,-14,-3%
+RMCB 1530,Denial Management,April,21,22,95%,-1,-95%
+RMCB 1530,Denial Management,May,16,22,73%,-6,-12%
+RMCB 1530,Denial Management,June,14,22,64%,-8,-8%
+RMCB 1535,Payment Posting,April,13,22,59%,-9,-7%
+RMCB 1535,Payment Posting,May,20,22,91%,-2,-45%
+RMCB 1535,Payment Posting,June,9,22,41%,-13,-3%
+RMCB 1538,SB,April,19,22,86%,-3,-29%
+RMCB 1538,SB,May,20,22,91%,-2,-45%
+RMCB 1538,SB,June,9,22,41%,-13,-3%
+RMCB 1541,Payment Posting,April,20,22,91%,-2,-45%
+RMCB 1541,Payment Posting,May,19,22,86%,-3,-29%
+RMCB 1541,Payment Posting,June,3,22,14%,-19,-1%
+RMCB 1548,Denial Management,April,21,22,95%,-1,-95%
+RMCB 1548,Denial Management,May,19,22,86%,-3,-29%
+RMCB 1548,Denial Management,June,10,22,45%,-12,-4%
+RMCB 1549,AR Calling,April,19,22,86%,-3,-29%
+RMCB 1549,AR Calling,May,17,22,77%,-5,-15%
+RMCB 1549,AR Calling,June,13,22,59%,-9,-7%
+RMCB 1550,Payment Posting,April,21,22,95%,-1,-95%
+RMCB 1550,Payment Posting,May,19,22,86%,-3,-29%
+RMCB 1550,Payment Posting,June,10,22,45%,-12,-4%
+RMCB 1558,SB,June,10,22,45%,-12,-4%
+RMCB 1559,SB,April,18,22,82%,-4,-20%
+RMCB 1559,SB,May,18,22,82%,-4,-20%
+RMCB 1559,SB,June,7,22,32%,-15,-2%
+RMCB 1580,SB,April,15,22,68%,-7,-10%
+RMCB 1580,SB,May,20,22,91%,-2,-45%
+RMCB 1580,SB,June,10,22,45%,-12,-4%
+RMCB 1583,SB,April,22,22,100%,0,#DIV/0!
+RMCB 1583,SB,May,20,22,91%,-2,-45%
+RMCB 1583,SB,June,15,22,68%,-7,-10%
+RMCB 1587,SB,April,19,22,86%,-3,-29%
+RMCB 1587,SB,May,23,22,105%,1,105%
+RMCB 1587,SB,June,10,22,45%,-12,-4%
+RMCB 1590,Denial Management,April,13,22,59%,-9,-7%
+RMCB 1590,Denial Management,May,10,22,45%,-12,-4%
+RMCB 1590,Denial Management,June,6,22,27%,-16,-2%
+RMCB 1593,Denial Management,April,14,22,64%,-8,-8%
+RMCB 1593,Denial Management,May,20,22,91%,-2,-45%
+RMCB 1593,Denial Management,June,9,22,41%,-13,-3%
+RMCB 1594,Denial Management,May,21,22,95%,-1,-95%
+RMCB 1594,Denial Management,June,10,22,45%,-12,-4%
+RMCB 1595,Payment Posting,May,3,22,14%,-19,-1%
+RMCB 1595,Payment Posting,June,3,22,14%,-19,-1%
+RMCB 1598,SB,May,14,22,64%,-8,-8%
+RMCB 1598,SB,June,15,22,68%,-7,-10%
+RMCB 1600,Denial Management,April,14,22,64%,-8,-8%
+RMCB 1600,Denial Management,May,10,22,45%,-12,-4%
+RMCB 1600,Denial Management,June,10,22,45%,-12,-4%
+RMCB 1608,Denial Management,April,11,22,50%,-11,-5%
+RMCB 1608,Denial Management,May,18,22,82%,-4,-20%
+RMCB 1608,Denial Management,June,9,22,41%,-13,-3%
+RMCB 1611,Denial Management,April,11,22,50%,-11,-5%
+RMCB 1611,Denial Management,May,19,22,86%,-3,-29%
+RMCB 1611,Denial Management,June,10,22,45%,-12,-4%
+RMCB 1613,Payment Posting,May,18,22,82%,-4,-20%
+RMCB 1613,Payment Posting,June,10,22,45%,-12,-4%
+RMCB 1614,AR Calling,May,17,22,77%,-5,-15%
+RMCB 1614,AR Calling,June,13,22,59%,-9,-7%
+RMCB 1616,Denial Management,April,6,22,27%,-16,-2%
+RMCB 1616,Denial Management,May,21,22,95%,-1,-95%
+RMCB 1616,Denial Management,June,10,22,45%,-12,-4%
+RMCB 1617,Payment Posting,May,20,22,91%,-2,-45%
+RMCB 1617,Payment Posting,June,10,22,45%,-12,-4%
+RMCB 1618,Payment Posting,April,5,22,23%,-17,-1%
+RMCB 1618,Payment Posting,May,20,22,91%,-2,-45%
+RMCB 1618,Payment Posting,June,14,22,64%,-8,-8%
+RMCB 1620,Denial Management,May,17,22,77%,-5,-15%
+RMCB 1620,Denial Management,June,10,22,45%,-12,-4%
+RMCB 1621,Payment Posting,May,18,22,82%,-4,-20%
+RMCB 1621,Payment Posting,June,9,22,41%,-13,-3%
+RMCB 1623,AR Calling,June,11,22,50%,-11,-5%
+RMCB 1623,Denial Management,June,12,22,55%,-10,-5%
+RMCB 1625,SB,May,13,22,59%,-9,-7%
+RMCB 1625,SB,June,10,22,45%,-12,-4%
+RMCB 1626,Payment Posting,May,3,22,14%,-19,-1%
+RMCB 1626,Payment Posting,June,10,22,45%,-12,-4%
+RMCB 1629,Quality Team Production,May,13,22,59%,-9,-7%
+RMCB 1631,Payment Posting,May,17,22,77%,-5,-15%
+RMCB 1631,Payment Posting,June,13,22,59%,-9,-7%
+RMCB 1632,SB,May,13,22,59%,-9,-7%
+RMCB 1632,SB,June,10,22,45%,-12,-4%
+RMCB 1633,SB,May,14,22,64%,-8,-8%
+RMCB 1633,SB,June,10,22,45%,-12,-4%
+RMCB 1634,SB,May,12,22,55%,-10,-5%
+RMCB 1634,SB,June,10,22,45%,-12,-4%
+RMCB 1636,SB,May,16,22,73%,-6,-12%
+RMCB 1636,SB,June,9,22,41%,-13,-3%
+RMCB 1638,SB,May,16,22,73%,-6,-12%
+RMCB 1638,SB,June,10,22,45%,-12,-4%
+RMCB 1639,SB,May,14,22,64%,-8,-8%
+RMCB 1639,SB,June,10,22,45%,-12,-4%
+RMCB 1640,SB,May,15,22,68%,-7,-10%
+RMCB 1640,SB,June,10,22,45%,-12,-4%
+RMCB 1641,SB,May,16,22,73%,-6,-12%
+RMCB 1641,SB,June,10,22,45%,-12,-4%
+RMCB 1648,SB,June,9,22,41%,-13,-3%
+RMCB 1649,AR Calling,June,14,22,64%,-8,-8%
+RMCB 400,SB,April,21,22,95%,-1,-95%
+RMCB 400,SB,May,19,22,86%,-3,-29%
+RMCB 400,SB,June,14,22,64%,-8,-8%
+RMCB 416,Quality Team Production,April,20,22,91%,-2,-45%
+RMCB 416,Quality Team Production,May,20,22,91%,-2,-45%
+RMCB 416,Quality Team Production,June,9,22,41%,-13,-3%
+RMCB 430,Quality Team Production,April,22,22,100%,0,#DIV/0!
+RMCB 430,Quality Team Production,May,18,22,82%,-4,-20%
+RMCB 430,Quality Team Production,June,10,22,45%,-12,-4%
+RMCB 565,Denial Management,April,20,22,91%,-2,-45%
+RMCB 565,Denial Management,May,19,22,86%,-3,-29%
+RMCB 565,Denial Management,June,14,22,64%,-8,-8%
+RMCB 596,Quality Team Production,April,21,22,95%,-1,-95%
+RMCB 596,Quality Team Production,May,19,22,86%,-3,-29%
+RMCB 596,Quality Team Production,June,10,22,45%,-12,-4%
+RMCB 662,SB,April,22,22,100%,0,#DIV/0!
+RMCB 662,SB,May,24,22,109%,2,55%
+RMCB 662,SB,June,10,22,45%,-12,-4%
+RMCB 759,Quality Team Production,April,22,22,100%,0,#DIV/0!
+RMCB 759,Quality Team Production,May,18,22,82%,-4,-20%
+RMCB 759,Quality Team Production,June,9,22,41%,-13,-3%
+RMCB 791,SB,April,20,22,91%,-2,-45%
+RMCB 791,SB,May,16,22,73%,-6,-12%
+RMCB 791,SB,June,10,22,45%,-12,-4%
+RMCB 841,SB,April,21,22,95%,-1,-95%
+RMCB 841,SB,May,18,22,82%,-4,-20%
+RMCB 841,SB,June,15,22,68%,-7,-10%
+RMCB 842,SB,April,19,22,86%,-3,-29%
+RMCB 842,SB,May,18,22,82%,-4,-20%
+RMCB 842,SB,June,10,22,45%,-12,-4%
+RMCB 845,Quality Team Production,April,22,22,100%,0,#DIV/0!
+RMCB 845,Quality Team Production,May,20,22,91%,-2,-45%
+RMCB 845,Quality Team Production,June,10,22,45%,-12,-4%
+RMCB 861,Extraction,April,20,22,91%,-2,-45%
+RMCB 861,Extraction,May,20,22,91%,-2,-45%
+RMCB 861,Extraction,June,14,22,64%,-8,-8%
+RMCB 876,SB,April,20,22,91%,-2,-45%
+RMCB 876,SB,June,10,22,45%,-12,-4%
+RMCB 901,Denial Management,April,20,22,91%,-2,-45%
+RMCB 901,Denial Management,May,17,22,77%,-5,-15%
+RMCB 901,Denial Management,June,14,22,64%,-8,-8%
+RMCB 903,Payment Posting,May,21,22,95%,-1,-95%
+RMCB 903,Payment Posting,June,3,22,14%,-19,-1%
+RMCB 941,Quality Team Production,April,22,22,100%,0,#DIV/0!
+RMCB 941,Quality Team Production,May,20,22,91%,-2,-45%
+RMCB 941,Quality Team Production,June,9,22,41%,-13,-3%
+RMCB 963,Others,April,21,22,95%,-1,-95%
+RMCB 963,Others,May,21,22,95%,-1,-95%
+RMCB 963,Others,June,15,22,68%,-7,-10%
+RMCB 971,SB,April,19,22,86%,-3,-29%
+RMCB 971,SB,May,20,22,91%,-2,-45%
+RMCB 971,SB,June,13,22,59%,-9,-7%
+RMCB 972,Payment Posting,April,19,22,86%,-3,-29%
+RMCB 972,Payment Posting,May,20,22,91%,-2,-45%
+RMCB 972,Payment Posting,June,9,22,41%,-13,-3%
+RMCB1411,Payment Posting,April,21,22,95%,-1,-95%
+RMCB1411,Payment Posting,May,19,22,86%,-3,-29%
+RMCB1411,Payment Posting,June,1,22,5%,-21,0%

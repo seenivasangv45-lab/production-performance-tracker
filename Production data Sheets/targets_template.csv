@@ -1,0 +1,148 @@
+PMS,Process Name,Sub Process Name,Target
+ECW,Payment Posting,ERA,750
+ECW,Payment Posting,Lab review adjustments,750
+ECW,Payment Posting,Manual batch audit,750
+ECW,Payment Posting,Medicaid submission,750
+ECW,Payment Posting,Patient portal ,750
+ECW,Payment Posting,Portal Downloads,750
+ECW,Payment Posting,Posting review,750
+ECW,Payment Posting,Process audit correction,750
+ECW,Payment Posting,Transition process,750
+ECW,Payment Posting,Unposted patient payment,750
+ECW,Quality Team Production,Process Audit_Denial & Aging,42
+ECW,Quality Team Production,Process Audit_Payment Posting,650
+ECW,Quality Team Production,Process Audit_Pending Charge/Rejection Validation,120
+ECW,Quality Team Production,Process Audit_SB,120
+ECW,Quality Team Production,Training_Payment Posting,0
+ECW,Quality Team Production,Training_SB,120
+ECW,Quality Team Production,Transcation Audit_Aging/Denial Management,42
+ECW,Quality Team Production,Transcation Audit_Payment Posting,650
+ECW,Quality Team Production,Transcation Audit_SB,120
+ECW,SB,Charge Entry,150
+ECW ,Quality Team Production,Process Audit_Credit Balance validation,200
+ECW ,Quality Team Production,Process Audit_Payment Posting,650
+ECW ,Quality Team Production,Transcation Audit_Aging/Denial Management,42
+ECW ,Quality Team Production,Transcation Audit_Payment Posting,650
+ECW & Experity,Payment Posting,Clearing house Rejection,750
+ECW & Experity,Payment Posting,Credit balance,750
+ECW & Experity,Payment Posting,Credit card charge,750
+ECW & Experity,Payment Posting,EOB,750
+ECW & Experity,Payment Posting,ERA,750
+ECW & Experity,Payment Posting,Lab review adjustments,750
+ECW & Experity,Payment Posting,MEDS-RAT COMBO,750
+ECW & Experity,Payment Posting,Manual batch audit,750
+ECW & Experity,Payment Posting,Medicaid submission,750
+ECW & Experity,Payment Posting,Meds Contract report,750
+ECW & Experity,Payment Posting,Month end collection,750
+ECW & Experity,Payment Posting,Patient portal ,750
+ECW & Experity,Payment Posting,Portal Downloads,750
+ECW & Experity,Payment Posting,Posting review,750
+ECW & Experity,Payment Posting,Transition process,750
+ECW & Experity,Payment Posting,Unposted patient payment,750
+EXPERITY,AR Calling,AR calling,20
+EXPERITY,Denial Management,AGING,50
+EXPERITY,Denial Management,Aging,40
+EXPERITY,Denial Management,Denial,50
+EXPERITY,Denial Management,Emails,50
+EXPERITY,Denial Management,Pt IDAM Call,50
+EXPERITY,Denial Management,UHC TRACKIT,50
+EXPERITY,Denial Management,UHC TrackIT,50
+EXPERITY,Denial Management,Worker's Comp,50
+EXPERITY,Extraction,Extraction,150
+EXPERITY,Extraction,Mail,60
+EXPERITY,Payment Posting,Credit Balance,300
+EXPERITY,Payment Posting,Credit balance,300
+EXPERITY,Payment Posting,EOB Posting,350
+EXPERITY,Payment Posting,ERA,850
+EXPERITY,Payment Posting,ERA Posting,350
+EXPERITY,Payment Posting,Manual EOB,350
+EXPERITY,Payment Posting,Payment Reconcilation Clean Up,350
+EXPERITY,Payment Posting,Posting Assistance Account,350
+EXPERITY,Quality Team Production,Process Audit_Denial & Aging,42
+EXPERITY,Quality Team Production,Process Audit_Payment Posting,650
+EXPERITY,Quality Team Production,Process Audit_Pending Charge/Rejection Validation,120
+EXPERITY,Quality Team Production,Process Audit_SB,120
+EXPERITY,Quality Team Production,Transcation Audit_Aging/Denial Management,42
+EXPERITY,Quality Team Production,Transcation Audit_Payment Posting,650
+EXPERITY,Quality Team Production,Transcation Audit_SB,120
+EXPERITY,SB,Charge Audit,120
+EXPERITY,SB,Charge Entry,120
+EXPERITY,SB,Charge Pending claims Reviewed,120
+EXPERITY,SB,Corrected claim submission,120
+EXPERITY,SB,Eligibility Verified,120
+EXPERITY,SB,Emails,120
+EXPERITY,SB,Idam Patient Call,120
+EXPERITY,SB,Internal messages,120
+EXPERITY,SB,Pending list Worked,120
+EXPERITY,SB,REJECTION,50
+EXPERITY,SB,SJC AUDIT,120
+EXPERITY,SB,WC Claims Worked,120
+EXPERITY,SB,Waystar Attachment claims,120
+EXPERITY,SB,Waystar Tally Verified,120
+GMED,AR Calling,AR calling,25
+GMED,Denial Management,Denial,40
+GMED,Payment Posting,Copay Post,1600
+GMED,Payment Posting,ERA Import,1600
+GMED,Payment Posting,ERA Reconciliation,1600
+GMED,Quality Team Production,Transcation Audit_Aging/Denial Management,42
+GMED,Quality Team Production,Transcation Audit_SB,120
+GMED,SB,Charge Entry,120
+GMED,SB,Demographics Entry,120
+GMED,SB,Rejection,40
+Iclaim,AR Calling,AR calling,20
+Iclaim,Denial Management,Denial,50
+Iclaim,Extraction,Analyst,60
+Iclaim,Extraction,Extraction,150
+Iclaim,Extraction,MISC,150
+Iclaim,Extraction,Mail,60
+Iclaim,Extraction,Mail Work,150
+Iclaim,Payment Posting, CREDITBALANCE,64
+Iclaim,Payment Posting,COLLECTIONAGENCYBATCHES ,64
+Iclaim,Payment Posting,EOBPosting,400
+Iclaim,Payment Posting,ERA Posting,850
+Iclaim,Payment Posting,ERA Posting,850
+Iclaim,Payment Posting,Emails,850
+Iclaim,Payment Posting,Idam_PatientCall,850
+Iclaim,Payment Posting,MCC _EOM REPORT,64
+Iclaim,Payment Posting,"MISC-Email's, Idam_Patient_Call , Collection_Report",64
+Iclaim,Payment Posting,PATIENTAGING,64
+Iclaim,Payment Posting,PRECOLLECTION,64
+Iclaim,Payment Posting,PUC_ADDRESSCHANGE,64
+Iclaim,Payment Posting,Portaldownload_Tally,850
+Iclaim,Payment Posting,RETURN_TO_SENDER & UNDELIVERD_STMT_WORK,64
+Iclaim,Quality Team Production,Process Audit_Denial & Aging,55
+Iclaim,Quality Team Production,Process Audit_Payment Posting,650
+Iclaim,Quality Team Production,Process Audit_SB,120
+Iclaim,Quality Team Production,Transcation Audit_Aging/Denial Management,55
+Iclaim,Quality Team Production,Transcation Audit_Payment Posting,650
+Iclaim,Quality Team Production,Transcation Audit_SB,120
+Iclaim,SB,Audit - Charge Entry,120
+Iclaim,SB,CALL PT,120
+Iclaim,SB,Call PT,120
+Iclaim,SB,Charge Entry,120
+Iclaim,SB,Claim submission(Billing),120
+Iclaim,SB,Copay Batch,120
+Iclaim,SB,Demo Entry (Including EV),120
+Iclaim,SB,Download,120
+Iclaim,SB,HCFA - To print,120
+Iclaim,SB,KI Extract,120
+Iclaim,SB,No show,120
+Iclaim,SB,Pending List,120
+Iclaim,SB,Prescrub,120
+Iclaim,SB,Rejections,120
+Iclaim,SB,SWID Master Excel Update,120
+MD LAND,AR Calling,AR calling,20
+MD LAND,Extraction,Extraction,150
+MD LAND,Extraction,Mail,150
+MD LAND,Payment Posting,MDLand_Audit,850
+MD LAND,Payment Posting,MDLand_EOBPosting,400
+MD LAND,SB,Charge Entry,120
+MD LAND,SB,Demo Entry (Including EV),120
+Medinfomatrix,AR Calling,AR calling,20
+Medinfomatrix,Denial Management,Denial,40
+Medinfomatrix,Payment Posting,Medinfomatrix(SCMI)_EOBPosting,400
+Medinfomatrix,Payment Posting,Medinfomatrix(SCMI)_ERA posting,400
+Medinfomatrix,Quality Team Production,Transcation Audit_Aging/Denial Management,42
+Medinfomatrix,Quality Team Production,Transcation Audit_Payment Posting,650
+iclaim,Iclaim EOB,EOB Posting,400
+iclaim,Iclaim EOB,ERA Posting,850

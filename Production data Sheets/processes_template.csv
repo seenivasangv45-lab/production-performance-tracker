@@ -1,0 +1,747 @@
+EmpID,Emp Name,PMS,Process Name,Sub Process Name
+RMCB 1208,MATHIVANAN GIRI G,ECW,AR Calling,AR calling
+RMCB 1208,MATHIVANAN GIRI G,EXPERITY,AR Calling,AR calling
+RMCB 1208,MATHIVANAN GIRI G,Iclaim,AR Calling,AR calling
+RMCB 1208,MATHIVANAN GIRI G,MD LAND,AR Calling,AR calling
+RMCB 1505,SADIQ S,Cerner,AR Calling,AR calling
+RMCB 1505,SADIQ S,GMED,AR Calling,AR calling
+RMCB 1549,MANIKANDAN B,Iclaim,AR Calling,AR calling
+RMCB 1549,MANIKANDAN B,MD LAND,AR Calling,AR calling
+RMCB 1549,MANIKANDAN B,Medinfomatrix,AR Calling,AR calling
+RMCB 1614,PURUSHOTHAMAN R V,Iclaim,AR Calling,AR calling
+RMCB 1623,RUTHRAKUMAR H,ECW,AR Calling,Denial
+RMCB 1649,SRI AVILASH,EXPERITY,AR Calling,AR calling
+RMCB 1165,MAHALAKSMI B,Cerner,Denial Management,PSMG Old AR
+RMCB 1165,MAHALAKSMI B,Cerner,Denial Management,SCMG Denials & Aging
+RMCB 1265,PRAVEENA M,EXPERITY,Denial Management,AGING
+RMCB 1265,PRAVEENA M,EXPERITY,Denial Management,Denial
+RMCB 1265,PRAVEENA M,EXPERITY,Denial Management,Emails
+RMCB 1265,PRAVEENA M,EXPERITY,Denial Management,Pt IDAM Call
+RMCB 1266,VASUNDHIRA DEVI K,EXPERITY,Denial Management,AGING
+RMCB 1266,VASUNDHIRA DEVI K,EXPERITY,Denial Management,Denial
+RMCB 1266,VASUNDHIRA DEVI K,EXPERITY,Denial Management,Emails
+RMCB 1266,VASUNDHIRA DEVI K,EXPERITY,Denial Management,Pt IDAM Call
+RMCB 1266,VASUNDHIRA DEVI K,EXPERITY,Denial Management,UHC TRACKIT
+RMCB 1266,VASUNDHIRA DEVI K,EXPERITY,Denial Management,UHC TrackIT
+RMCB 1266,VASUNDHIRA DEVI K,EXPERITY,Denial Management,Worker's Comp
+RMCB 1267,BHARATHY S,Cerner,Denial Management,SCMG Denials & Aging
+RMCB 1268,AMRUTHA S,EXPERITY,Denial Management,Denial
+RMCB 1343,RAGUL B,EXPERITY,Denial Management,AGING
+RMCB 1343,RAGUL B,EXPERITY,Denial Management,Denial
+RMCB 1343,RAGUL B,EXPERITY,Denial Management,Worker's Comp
+RMCB 1344,POORNIMA K,EXPERITY,Denial Management,AGING
+RMCB 1344,POORNIMA K,EXPERITY,Denial Management,Denial
+RMCB 1344,POORNIMA K,EXPERITY,Denial Management,Emails
+RMCB 1344,POORNIMA K,EXPERITY,Denial Management,Pt IDAM Call
+RMCB 1344,POORNIMA K,EXPERITY,Denial Management,UHC TrackIT
+RMCB 1348,HEMANTH KUMAR Y,Advanced MD,Denial Management,Denial/Aging
+RMCB 1348,HEMANTH KUMAR Y,Advanced MD,Denial Management,Patient Statement/Inbox
+RMCB 1359,SUREYA S,Cerner,Denial Management,SCMG Denials & Aging
+RMCB 1360,ASHWANTH KUMAR A,Cerner,Denial Management,PSMG Old AR
+RMCB 1360,ASHWANTH KUMAR A,Cerner,Denial Management,SCMG Denials & Aging
+RMCB 1360,ASHWANTH KUMAR A,Cerner,Denial Management,To prints audited
+RMCB 1361,BARATH S,Cerner,Denial Management,SCMG Denials & Aging
+RMCB 1362,UDHAYA KUMAR R,Cerner,Denial Management,SCMG Denials & Aging
+RMCB 1367,PRADEEP KUMAR M,EXPERITY,Denial Management,Denial
+RMCB 1370,SUJITHA S,EXPERITY,Denial Management,Aging
+RMCB 1394,PRIYA DHARSHINI R,Iclaim,Denial Management,Denial
+RMCB 1395,ANANDHA MOHANA K,Iclaim,Denial Management,Denial
+RMCB 1396,SUJITHA A,Iclaim,Denial Management,Denial
+RMCB 1398,KAVIYA S,Cerner,Denial Management,SCMG Denials & Aging
+RMCB 1400,ABIRAMI P,Iclaim,Denial Management,Denial
+RMCB 1401,GOPINATH S,Advanced MD,Denial Management,Denial/Aging
+RMCB 1401,GOPINATH S,Advanced MD,Denial Management,Patient Statement/Inbox
+RMCB 1445,NIVETHA M,ECW,Denial Management,Aging
+RMCB 1447,VINDIYA S,GMED,Denial Management,Denial
+RMCB 1447,VINDIYA S,Medinfomatrix,Denial Management,Denial
+RMCB 1448,KARUNYA S,GMED,Denial Management,Denial
+RMCB 1474,JAKAPREETHI VELUSAMY,EXPERITY,Denial Management,AGING
+RMCB 1474,JAKAPREETHI VELUSAMY,EXPERITY,Denial Management,Denial
+RMCB 1474,JAKAPREETHI VELUSAMY,EXPERITY,Denial Management,Emails
+RMCB 1474,JAKAPREETHI VELUSAMY,EXPERITY,Denial Management,Pt IDAM Call
+RMCB 1474,JAKAPREETHI VELUSAMY,EXPERITY,Denial Management,UHC TRACKIT
+RMCB 1474,JAKAPREETHI VELUSAMY,EXPERITY,Denial Management,Worker's Comp
+RMCB 1484,RANJITHKUMAR E,ECW,Denial Management,Denial
+RMCB 1484,RANJITHKUMAR E,GMED,Denial Management,Denial
+RMCB 1500,MEENA B,Iclaim,Denial Management,Denial
+RMCB 1504,THOMAS KUTTY A,Cerner,Denial Management,PSMG Old AR
+RMCB 1504,THOMAS KUTTY A,Cerner,Denial Management,SCMG Denials & Aging
+RMCB 1515,HARI PRASAD B,Advanced MD,Denial Management,Denial/Aging
+RMCB 1527,PRIYATHARSHINI S,EXPERITY,Denial Management,AGING
+RMCB 1527,PRIYATHARSHINI S,EXPERITY,Denial Management,Denial
+RMCB 1530,SANTHANAKUMAR R,EXPERITY,Denial Management,Denial
+RMCB 1548,SWETHA JAYACHANDRAN,EXPERITY,Denial Management,AGING
+RMCB 1548,SWETHA JAYACHANDRAN,EXPERITY,Denial Management,Denial
+RMCB 1548,SWETHA JAYACHANDRAN,EXPERITY,Denial Management,Emails
+RMCB 1548,SWETHA JAYACHANDRAN,EXPERITY,Denial Management,Pt IDAM Call
+RMCB 1548,SWETHA JAYACHANDRAN,EXPERITY,Denial Management,UHC TRACKIT
+RMCB 1548,SWETHA JAYACHANDRAN,EXPERITY,Denial Management,UHC TrackIT
+RMCB 1548,SWETHA JAYACHANDRAN,EXPERITY,Denial Management,Worker's Comp
+RMCB 1590,SANTHOSH KUMAR D,Cerner,Denial Management,SCMG Denials & Aging
+RMCB 1593,P PON AKILA SWATHY,Cerner,Denial Management,SCMG Denials & Aging
+RMCB 1594,MONICA R,EXPERITY,Denial Management,AGING
+RMCB 1594,MONICA R,EXPERITY,Denial Management,Denial
+RMCB 1594,MONICA R,EXPERITY,Denial Management,Emails
+RMCB 1594,MONICA R,EXPERITY,Denial Management,UHC TRACKIT
+RMCB 1594,MONICA R,EXPERITY,Denial Management,Worker's Comp
+RMCB 1600,MICHEAL ROBERT S,Cerner,Denial Management,SCMG Denials & Aging
+RMCB 1608,AJAYSRI TAMILSELVEN,Cerner,Denial Management,SCMG Denials & Aging
+RMCB 1611,RANJITHA V,Cerner,Denial Management,SCMG Denials & Aging
+RMCB 1616,KAVIYA DEVARAJ,GMED,Denial Management,Denial
+RMCB 1620,DEVISHREE,Iclaim,Denial Management,Denial
+RMCB 565,MITHILESH PARAMASIVAN,ECW,Denial Management,Denial
+RMCB 901,HARISH KUMAR M,ECW,Denial Management,Aging
+RMCB 1084,LAKSHMI R,EXPERITY,Extraction,Extraction
+RMCB 1084,LAKSHMI R,EXPERITY,Extraction,Mail
+RMCB 1084,LAKSHMI R,Iclaim,Extraction,Analyst
+RMCB 1084,LAKSHMI R,Iclaim,Extraction,Extraction
+RMCB 1084,LAKSHMI R,Iclaim,Extraction,MISC
+RMCB 1084,LAKSHMI R,Iclaim,Extraction,Mail
+RMCB 1084,LAKSHMI R,MD LAND,Extraction,Extraction
+RMCB 1421,NAGARAJ M,Cerner,Extraction,SCMG Aging Extraction
+RMCB 1421,NAGARAJ M,Cerner,Extraction,SCMG Denials & Aging
+RMCB 1446,UMA DEVI A,Iclaim,Extraction,Extraction
+RMCB 1446,UMA DEVI A,Iclaim,Extraction,MISC
+RMCB 1446,UMA DEVI A,Iclaim,Extraction,Mail
+RMCB 1446,UMA DEVI A,Iclaim,Extraction,Mail Work
+RMCB 1511,KOWSALYA R,Cerner,Extraction,SCMG Aging Extraction
+RMCB 861,VISHNU PRIYA S,EXPERITY,Extraction,Extraction
+RMCB 861,VISHNU PRIYA S,EXPERITY,Extraction,Mail
+RMCB 861,VISHNU PRIYA S,Iclaim,Extraction,Extraction
+RMCB 861,VISHNU PRIYA S,Iclaim,Extraction,Mail
+RMCB 861,VISHNU PRIYA S,MD LAND,Extraction,Extraction
+RMCB 861,VISHNU PRIYA S,MD LAND,Extraction,Mail
+RMCB1411 ,PRADEEP S,iclaim,Iclaim EOB,EOB Posting
+RMCB1411 ,PRADEEP S,iclaim,Iclaim EOB,ERA Posting
+RMCB 963,KALEESWARI K,ECW,Others,Collection and statement
+RMCB 1062,MALLIKA D,Advanced MD,Payment Posting,ERA
+RMCB 1062,MALLIKA D,Advanced MD,Payment Posting,Manual EOB
+RMCB 1062,MALLIKA D,EXPERITY,Payment Posting,ERA
+RMCB 1062,MALLIKA D,EXPERITY,Payment Posting,Manual EOB
+RMCB 1116,MANIKANDAN A,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1116,MANIKANDAN A,Cerner,Payment Posting,ERA Posting
+RMCB 1116,MANIKANDAN A,Cerner,Payment Posting,Extraction
+RMCB 1116,MANIKANDAN A,Cerner,Payment Posting,Failed Edits
+RMCB 1116,MANIKANDAN A,Cerner,Payment Posting,IDAM Calls/My Bills/IZ Bills
+RMCB 1116,MANIKANDAN A,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1116,MANIKANDAN A,Cerner,Payment Posting,Insurance Credit
+RMCB 1116,MANIKANDAN A,Cerner,Payment Posting,Patient Credit
+RMCB 1160,DEVADHARSHINI G,Iclaim,Payment Posting,EOBPosting
+RMCB 1160,DEVADHARSHINI G,Iclaim,Payment Posting,ERA Posting
+RMCB 1160,DEVADHARSHINI G,Iclaim,Payment Posting,Portaldownload_Tally
+RMCB 1160,DEVADHARSHINI G,MD LAND,Payment Posting,MDLand_EOBPosting
+RMCB 1182,ARSHAD M,Iclaim,Payment Posting, CREDITBALANCE
+RMCB 1182,ARSHAD M,Iclaim,Payment Posting,COLLECTIONAGENCYBATCHES 
+RMCB 1182,ARSHAD M,Iclaim,Payment Posting,MCC _EOM REPORT
+RMCB 1182,ARSHAD M,Iclaim,Payment Posting,"MISC-Email's, Idam_Patient_Call , Collection_Report"
+RMCB 1182,ARSHAD M,Iclaim,Payment Posting,PATIENTAGING
+RMCB 1182,ARSHAD M,Iclaim,Payment Posting,PRECOLLECTION
+RMCB 1182,ARSHAD M,Iclaim,Payment Posting,PUC_ADDRESSCHANGE
+RMCB 1182,ARSHAD M,Iclaim,Payment Posting,RETURN_TO_SENDER & UNDELIVERD_STMT_WORK
+RMCB 1281,YUKESH B,Iclaim,Payment Posting,EOBPosting
+RMCB 1281,YUKESH B,Iclaim,Payment Posting,ERA Posting
+RMCB 1281,YUKESH B,Iclaim,Payment Posting,Emails
+RMCB 1281,YUKESH B,Iclaim,Payment Posting,Idam_PatientCall
+RMCB 1281,YUKESH B,MD LAND,Payment Posting,MDLand_Audit
+RMCB 1286,MOHAMMED AKRAM J,ECW,Payment Posting,Credit balance
+RMCB 1286,MOHAMMED AKRAM J,ECW,Payment Posting,Credit card charge
+RMCB 1286,MOHAMMED AKRAM J,ECW,Payment Posting,EOB
+RMCB 1286,MOHAMMED AKRAM J,ECW,Payment Posting,ERA
+RMCB 1286,MOHAMMED AKRAM J,ECW,Payment Posting,Lab review adjustments
+RMCB 1286,MOHAMMED AKRAM J,ECW,Payment Posting,Manual batch audit
+RMCB 1286,MOHAMMED AKRAM J,ECW,Payment Posting,Medicaid submission
+RMCB 1286,MOHAMMED AKRAM J,ECW,Payment Posting,Patient portal 
+RMCB 1286,MOHAMMED AKRAM J,ECW,Payment Posting,Portal Downloads
+RMCB 1286,MOHAMMED AKRAM J,ECW,Payment Posting,Posting review
+RMCB 1286,MOHAMMED AKRAM J,ECW,Payment Posting,Process audit correction
+RMCB 1287,SARANYA S,ECW & Experity,Payment Posting,Credit balance
+RMCB 1287,SARANYA S,ECW & Experity,Payment Posting,Credit card charge
+RMCB 1287,SARANYA S,ECW & Experity,Payment Posting,EOB
+RMCB 1287,SARANYA S,ECW & Experity,Payment Posting,ERA
+RMCB 1287,SARANYA S,ECW & Experity,Payment Posting,Month end collection
+RMCB 1287,SARANYA S,ECW & Experity,Payment Posting,Patient portal 
+RMCB 1287,SARANYA S,ECW & Experity,Payment Posting,Portal Downloads
+RMCB 1287,SARANYA S,ECW & Experity,Payment Posting,Posting review
+RMCB 1288,ALEX R,Cerner,Payment Posting,Correspondence
+RMCB 1288,ALEX R,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1288,ALEX R,Cerner,Payment Posting,ERA Posting
+RMCB 1288,ALEX R,Cerner,Payment Posting,Extraction
+RMCB 1288,ALEX R,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1288,ALEX R,Cerner,Payment Posting,Internal Audit
+RMCB 1289,ANBARASU,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1289,ANBARASU,Cerner,Payment Posting,ERA Posting
+RMCB 1289,ANBARASU,Cerner,Payment Posting,Extraction
+RMCB 1289,ANBARASU,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1321,KEERTHIKA T,ECW,Payment Posting,Credit balance
+RMCB 1321,KEERTHIKA T,ECW,Payment Posting,EOB
+RMCB 1321,KEERTHIKA T,ECW,Payment Posting,ERA
+RMCB 1321,KEERTHIKA T,ECW,Payment Posting,Lab review adjustments
+RMCB 1321,KEERTHIKA T,ECW,Payment Posting,Manual batch audit
+RMCB 1321,KEERTHIKA T,ECW,Payment Posting,Patient portal 
+RMCB 1321,KEERTHIKA T,ECW,Payment Posting,Portal Downloads
+RMCB 1321,KEERTHIKA T,ECW,Payment Posting,Posting review
+RMCB 1321,KEERTHIKA T,ECW,Payment Posting,Transition process
+RMCB 1321,KEERTHIKA T,ECW,Payment Posting,Unposted patient payment
+RMCB 1322,VIKASHINI S,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1322,VIKASHINI S,Cerner,Payment Posting,ERA Posting
+RMCB 1322,VIKASHINI S,Cerner,Payment Posting,Extraction
+RMCB 1322,VIKASHINI S,Cerner,Payment Posting,IDAM Calls/My Bills/IZ Bills
+RMCB 1322,VIKASHINI S,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1322,VIKASHINI S,Cerner,Payment Posting,Internal Audit
+RMCB 1322,VIKASHINI S,Cerner,Payment Posting,Patient Credit
+RMCB 1341,KALEESWARI M,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1341,KALEESWARI M,Cerner,Payment Posting,ERA Posting
+RMCB 1341,KALEESWARI M,Cerner,Payment Posting,IDAM Calls/My Bills/IZ Bills
+RMCB 1341,KALEESWARI M,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1341,KALEESWARI M,Cerner,Payment Posting,Patient Credit
+RMCB 1356,SAM RENSWICK K,Cerner,Payment Posting,Correspondence
+RMCB 1356,SAM RENSWICK K,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1356,SAM RENSWICK K,Cerner,Payment Posting,ERA Posting
+RMCB 1356,SAM RENSWICK K,Cerner,Payment Posting,Extraction
+RMCB 1356,SAM RENSWICK K,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1356,SAM RENSWICK K,Cerner,Payment Posting,Patient Credit
+RMCB 1377,BAKYADEVI R,EXPERITY,Payment Posting,Credit Balance
+RMCB 1377,BAKYADEVI R,EXPERITY,Payment Posting,Credit balance
+RMCB 1377,BAKYADEVI R,EXPERITY,Payment Posting,EOB Posting
+RMCB 1377,BAKYADEVI R,EXPERITY,Payment Posting,ERA Posting
+RMCB 1412,SURENDRAN S,Cerner,Payment Posting,Correspondence
+RMCB 1412,SURENDRAN S,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1412,SURENDRAN S,Cerner,Payment Posting,Extraction
+RMCB 1412,SURENDRAN S,Cerner,Payment Posting,IDAM Calls/My Bills/IZ Bills
+RMCB 1412,SURENDRAN S,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1412,SURENDRAN S,Cerner,Payment Posting,Patient Credit
+RMCB 1435,KAVIPRIYA R,Iclaim,Payment Posting,EOBPosting
+RMCB 1435,KAVIPRIYA R,Iclaim,Payment Posting,ERA Posting
+RMCB 1435,KAVIPRIYA R,Iclaim,Payment Posting,ERAPosting
+RMCB 1435,KAVIPRIYA R,MD LAND,Payment Posting,MDLand_EOBPosting
+RMCB 1435,KAVIPRIYA R,Medinfomatrix,Payment Posting,Medinfomatrix(SCMI)_EOBPosting
+RMCB 1435,KAVIPRIYA R,Medinfomatrix,Payment Posting,Medinfomatrix(SCMI)_ERAposting
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,Clearing house Rejection
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,Credit balance
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,Credit card charge
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,EOB
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,ERA
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,Lab review adjustments
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,MEDS-RAT COMBO
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,Manual batch audit
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,Medicaid submission
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,Meds Contract report
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,Patient portal 
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,Portal Downloads
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,Posting review
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,Transition process
+RMCB 1441,KARTHIKA S,ECW & Experity,Payment Posting,Unposted patient payment
+RMCB 1443,ESAKKI S,ECW & Experity,Payment Posting,Clearing house Rejection
+RMCB 1443,ESAKKI S,ECW & Experity,Payment Posting,Credit balance
+RMCB 1443,ESAKKI S,ECW & Experity,Payment Posting,EOB
+RMCB 1443,ESAKKI S,ECW & Experity,Payment Posting,ERA
+RMCB 1443,ESAKKI S,ECW & Experity,Payment Posting,Lab review adjustments
+RMCB 1443,ESAKKI S,ECW & Experity,Payment Posting,Manual batch audit
+RMCB 1443,ESAKKI S,ECW & Experity,Payment Posting,Medicaid submission
+RMCB 1443,ESAKKI S,ECW & Experity,Payment Posting,Month end collection
+RMCB 1443,ESAKKI S,ECW & Experity,Payment Posting,Patient portal 
+RMCB 1443,ESAKKI S,ECW & Experity,Payment Posting,Portal Downloads
+RMCB 1443,ESAKKI S,ECW & Experity,Payment Posting,Posting review
+RMCB 1444,PAVITHRA DEVARAJ ,Iclaim,Payment Posting,EOBPosting
+RMCB 1444,PAVITHRA DEVARAJ ,Iclaim,Payment Posting,ERA Posting
+RMCB 1444,PAVITHRA DEVARAJ ,Iclaim,Payment Posting,Portaldownload_Tally
+RMCB 1450,BLESSON RAJ R,EXPERITY,Payment Posting,EOB Posting
+RMCB 1450,BLESSON RAJ R,EXPERITY,Payment Posting,ERA Posting
+RMCB 1450,BLESSON RAJ R,EXPERITY,Payment Posting,Posting Assistance Account
+RMCB 1451,TAMILARASAN R,Iclaim,Payment Posting,EOBPosting
+RMCB 1451,TAMILARASAN R,Iclaim,Payment Posting,ERA Posting
+RMCB 1451,TAMILARASAN R,Iclaim,Payment Posting,Portaldownload_Tally
+RMCB 1452,AKASH RAJA R,EXPERITY,Payment Posting,EOB Posting
+RMCB 1452,AKASH RAJA R,EXPERITY,Payment Posting,ERA Posting
+RMCB 1452,AKASH RAJA R,EXPERITY,Payment Posting,Payment Reconcilation Clean Up
+RMCB 1452,AKASH RAJA R,EXPERITY,Payment Posting,Posting Assistance Account
+RMCB 1453,DHANASEKAR K,Cerner,Payment Posting,Correspondence
+RMCB 1453,DHANASEKAR K,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1453,DHANASEKAR K,Cerner,Payment Posting,ERA Posting
+RMCB 1453,DHANASEKAR K,Cerner,Payment Posting,Extraction
+RMCB 1453,DHANASEKAR K,Cerner,Payment Posting,IDAM Calls/My Bills/IZ Bills
+RMCB 1453,DHANASEKAR K,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1454,MOHAN S,EXPERITY,Payment Posting,EOB Posting
+RMCB 1454,MOHAN S,EXPERITY,Payment Posting,ERA Posting
+RMCB 1454,MOHAN S,EXPERITY,Payment Posting,Payment Reconcilation Clean Up
+RMCB 1454,MOHAN S,EXPERITY,Payment Posting,Posting Assistance Account
+RMCB 1455,SANDEEP K,Cerner,Payment Posting,Collection
+RMCB 1455,SANDEEP K,Cerner,Payment Posting,Correspondence
+RMCB 1455,SANDEEP K,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1455,SANDEEP K,Cerner,Payment Posting,ERA Posting
+RMCB 1455,SANDEEP K,Cerner,Payment Posting,Extraction
+RMCB 1455,SANDEEP K,Cerner,Payment Posting,IDAM Calls/My Bills/IZ Bills
+RMCB 1455,SANDEEP K,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1455,SANDEEP K,Cerner,Payment Posting,Insurance Credit
+RMCB 1455,SANDEEP K,Cerner,Payment Posting,Patient Credit
+RMCB 1456,ALWIN A,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1456,ALWIN A,Cerner,Payment Posting,ERA Posting
+RMCB 1456,ALWIN A,Cerner,Payment Posting,Extraction
+RMCB 1456,ALWIN A,Cerner,Payment Posting,IDAM Calls/My Bills/IZ Bills
+RMCB 1456,ALWIN A,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1459,KARTHIK P,Cerner,Payment Posting,Collection
+RMCB 1459,KARTHIK P,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1459,KARTHIK P,Cerner,Payment Posting,ERA Posting
+RMCB 1459,KARTHIK P,Cerner,Payment Posting,Extraction
+RMCB 1459,KARTHIK P,Cerner,Payment Posting,IDAM Calls/My Bills/IZ Bills
+RMCB 1459,KARTHIK P,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1459,KARTHIK P,Cerner,Payment Posting,Insurance Credit
+RMCB 1459,KARTHIK P,Cerner,Payment Posting,Internal Audit
+RMCB 1459,KARTHIK P,Cerner,Payment Posting,Patient Credit
+RMCB 1460,VISWAS J,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1460,VISWAS J,Cerner,Payment Posting,ERA Posting
+RMCB 1460,VISWAS J,Cerner,Payment Posting,Extraction
+RMCB 1460,VISWAS J,Cerner,Payment Posting,IDAM Calls/My Bills/IZ Bills
+RMCB 1460,VISWAS J,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1460,VISWAS J,Cerner,Payment Posting,Patient Credit
+RMCB 1461,SELVAKUMAR S,Cerner,Payment Posting,Collection
+RMCB 1461,SELVAKUMAR S,Cerner,Payment Posting,Correspondence
+RMCB 1461,SELVAKUMAR S,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1461,SELVAKUMAR S,Cerner,Payment Posting,ERA Posting
+RMCB 1461,SELVAKUMAR S,Cerner,Payment Posting,Extraction
+RMCB 1461,SELVAKUMAR S,Cerner,Payment Posting,IDAM Calls/My Bills/IZ Bills
+RMCB 1461,SELVAKUMAR S,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1481,BHARATH KUMAR K,Cerner,Payment Posting,Correspondence
+RMCB 1481,BHARATH KUMAR K,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1481,BHARATH KUMAR K,Cerner,Payment Posting,ERA Posting
+RMCB 1481,BHARATH KUMAR K,Cerner,Payment Posting,Extraction
+RMCB 1481,BHARATH KUMAR K,Cerner,Payment Posting,IDAM Calls/My Bills/IZ Bills
+RMCB 1481,BHARATH KUMAR K,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1484,RANJITHKUMAR E,GMED,Payment Posting,Copay Post
+RMCB 1484,RANJITHKUMAR E,GMED,Payment Posting,ERA Import
+RMCB 1484,RANJITHKUMAR E,GMED,Payment Posting,ERA Reconciliation
+RMCB 1515,HARI PRASAD B,Advanced MD,Payment Posting,ERA
+RMCB 1515,HARI PRASAD B,Advanced MD,Payment Posting,Manual EOB
+RMCB 1516,PRAKASH N,EXPERITY,Payment Posting,EOB Posting
+RMCB 1516,PRAKASH N,EXPERITY,Payment Posting,ERA Posting
+RMCB 1516,PRAKASH N,EXPERITY,Payment Posting,Payment Reconcilation Clean Up
+RMCB 1516,PRAKASH N,EXPERITY,Payment Posting,Posting Assistance Account
+RMCB 1535,SURENDRAN A,EXPERITY,Payment Posting,EOB Posting
+RMCB 1535,SURENDRAN A,EXPERITY,Payment Posting,ERA Posting
+RMCB 1535,SURENDRAN A,EXPERITY,Payment Posting,Payment Reconcilation Clean Up
+RMCB 1535,SURENDRAN A,EXPERITY,Payment Posting,Posting Assistance Account
+RMCB 1541,CHANDIRAKUMAR K,ECW,Payment Posting,ATHENA
+RMCB 1541,CHANDIRAKUMAR K,ECW,Payment Posting,CCM Adjustments
+RMCB 1541,CHANDIRAKUMAR K,ECW,Payment Posting,Clearing house Rejection
+RMCB 1541,CHANDIRAKUMAR K,ECW,Payment Posting,Credit balance
+RMCB 1541,CHANDIRAKUMAR K,ECW,Payment Posting,EOB
+RMCB 1541,CHANDIRAKUMAR K,ECW,Payment Posting,ERA
+RMCB 1541,CHANDIRAKUMAR K,ECW,Payment Posting,Medicaid submission
+RMCB 1541,CHANDIRAKUMAR K,ECW,Payment Posting,Patient portal 
+RMCB 1541,CHANDIRAKUMAR K,ECW,Payment Posting,Portal Downloads
+RMCB 1541,CHANDIRAKUMAR K,ECW,Payment Posting,Transition process
+RMCB 1550,ESWARAN S,EXPERITY,Payment Posting,EOB Posting
+RMCB 1550,ESWARAN S,EXPERITY,Payment Posting,ERA Posting
+RMCB 1550,ESWARAN S,EXPERITY,Payment Posting,Payment Reconcilation Clean Up
+RMCB 1550,ESWARAN S,EXPERITY,Payment Posting,Posting Assistance Account
+RMCB 1595,RAHAMATHULLA S,EXPERITY,Payment Posting,EOB Posting
+RMCB 1595,RAHAMATHULLA S,EXPERITY,Payment Posting,ERA Posting
+RMCB 1595,RAHAMATHULLA S,EXPERITY,Payment Posting,Payment Reconcilation Clean Up
+RMCB 1613,JAWAHAR BABU,Cerner,Payment Posting,Correspondence
+RMCB 1613,JAWAHAR BABU,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1613,JAWAHAR BABU,Cerner,Payment Posting,ERA Posting
+RMCB 1613,JAWAHAR BABU,Cerner,Payment Posting,Extraction
+RMCB 1613,JAWAHAR BABU,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1617,VEERAKUMAR NARAYANASAMY,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1617,VEERAKUMAR NARAYANASAMY,Cerner,Payment Posting,ERA Posting
+RMCB 1617,VEERAKUMAR NARAYANASAMY,Cerner,Payment Posting,Extraction
+RMCB 1617,VEERAKUMAR NARAYANASAMY,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1618,NANDHINI S,ECW,Payment Posting,Credit balance
+RMCB 1618,NANDHINI S,ECW,Payment Posting,Credit card charge
+RMCB 1618,NANDHINI S,ECW,Payment Posting,EOB
+RMCB 1618,NANDHINI S,ECW,Payment Posting,ERA
+RMCB 1618,NANDHINI S,ECW,Payment Posting,Lab review adjustments
+RMCB 1618,NANDHINI S,ECW,Payment Posting,Manual batch audit
+RMCB 1618,NANDHINI S,ECW,Payment Posting,Medicaid submission
+RMCB 1618,NANDHINI S,ECW,Payment Posting,Patient portal 
+RMCB 1618,NANDHINI S,ECW,Payment Posting,Portal Downloads
+RMCB 1621,BOOBANA B,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 1621,BOOBANA B,Cerner,Payment Posting,ERA Posting
+RMCB 1621,BOOBANA B,Cerner,Payment Posting,Extraction
+RMCB 1621,BOOBANA B,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 1621,BOOBANA B,Cerner,Payment Posting,Insurance Credit
+RMCB 1621,BOOBANA B,Cerner,Payment Posting,Patient Credit
+RMCB 1626,AMIRTHASHALINI,EXPERITY,Payment Posting,EOB Posting
+RMCB 1626,AMIRTHASHALINI,EXPERITY,Payment Posting,ERA Posting
+RMCB 1631,MAHESHWARI S,ECW,Payment Posting,Credit balance
+RMCB 1631,MAHESHWARI S,ECW,Payment Posting,Credit card charge
+RMCB 1631,MAHESHWARI S,ECW,Payment Posting,EOB
+RMCB 1631,MAHESHWARI S,ECW,Payment Posting,ERA
+RMCB 1631,MAHESHWARI S,ECW,Payment Posting,Lab review adjustments
+RMCB 1631,MAHESHWARI S,ECW,Payment Posting,Manual batch audit
+RMCB 1631,MAHESHWARI S,ECW,Payment Posting,Patient portal 
+RMCB 1631,MAHESHWARI S,ECW,Payment Posting,Portal Downloads
+RMCB 903,ANSON A,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 903,ANSON A,Cerner,Payment Posting,ERA Posting
+RMCB 903,ANSON A,Cerner,Payment Posting,Extraction
+RMCB 903,ANSON A,Cerner,Payment Posting,IDAM Calls/My Bills/IZ Bills
+RMCB 903,ANSON A,Cerner,Payment Posting,Patient Credit
+RMCB 972,ASIMA N,Cerner,Payment Posting,EOB/GW/ZP
+RMCB 972,ASIMA N,Cerner,Payment Posting,ERA Posting
+RMCB 972,ASIMA N,Cerner,Payment Posting,Extraction
+RMCB 972,ASIMA N,Cerner,Payment Posting,Failed Edits
+RMCB 972,ASIMA N,Cerner,Payment Posting,IDAM Calls/My Bills/IZ Bills
+RMCB 972,ASIMA N,Cerner,Payment Posting,Instamed/Unapplied
+RMCB 972,ASIMA N,Cerner,Payment Posting,Insurance Credit
+RMCB 972,ASIMA N,Cerner,Payment Posting,Patient Credit
+RMCB 1007,PRINCE H,EXPERITY,Quality Team Production,Process Audit_Payment Posting
+RMCB 1007,PRINCE H,EXPERITY,Quality Team Production,Transcation Audit_Payment Posting
+RMCB 1073,ILAKKIYA K,Advanced MD,Quality Team Production,Process Audit_Payment Posting
+RMCB 1073,ILAKKIYA K,Advanced MD,Quality Team Production,Process Audit_Unposted Portal Validation
+RMCB 1073,ILAKKIYA K,Advanced MD,Quality Team Production,Transcation Audit_Payment Posting
+RMCB 1073,ILAKKIYA K,Cerner,Quality Team Production,Process Audit_Payment Posting
+RMCB 1073,ILAKKIYA K,ECW,Quality Team Production,Process Audit_Payment Posting
+RMCB 1073,ILAKKIYA K,ECW,Quality Team Production,Transcation Audit_Payment Posting
+RMCB 1073,ILAKKIYA K,ECW ,Quality Team Production,Process Audit_Credit Balance validation
+RMCB 1073,ILAKKIYA K,ECW ,Quality Team Production,Process Audit_Payment Posting
+RMCB 1073,ILAKKIYA K,ECW ,Quality Team Production,Transcation Audit_Payment Posting
+RMCB 1073,ILAKKIYA K,Medinfomatrix,Quality Team Production,Transcation Audit_Payment Posting
+RMCB 1167,THIYANESHWARAN A,Advanced MD,Quality Team Production,Process Audit_Denial & Aging
+RMCB 1167,THIYANESHWARAN A,Advanced MD,Quality Team Production,Transcation Audit_Aging/Denial Management
+RMCB 1167,THIYANESHWARAN A,Cerner,Quality Team Production,Transcation Audit_Aging/Denial Management
+RMCB 1167,THIYANESHWARAN A,Cerner,Quality Team Production,Transcation Audit_Correspondence
+RMCB 1167,THIYANESHWARAN A,Cerner ,Quality Team Production,Transcation Audit_Aging/Denial Management
+RMCB 1167,THIYANESHWARAN A,Cerner ,Quality Team Production,Transcation Audit_Correspondence
+RMCB 1193,NANDHINI R,Cerner ,Quality Team Production,Process Audit_Pending Charge/Rejection Validation
+RMCB 1193,NANDHINI R,Cerner ,Quality Team Production,Process Audit_SB
+RMCB 1193,NANDHINI R,Cerner ,Quality Team Production,Transcation Audit_SB
+RMCB 1242,PRABAKARAN S,Iclaim,Quality Team Production,Process Audit_Payment Posting
+RMCB 1242,PRABAKARAN S,Iclaim,Quality Team Production,Transcation Audit_Payment Posting
+RMCB 1298,AJITH KUMAR K,Advanced MD,Quality Team Production,Process Audit_Denial & Aging
+RMCB 1298,AJITH KUMAR K,Advanced MD,Quality Team Production,Transcation Audit_Aging/Denial Management
+RMCB 1298,AJITH KUMAR K,EXPERITY,Quality Team Production,Process Audit_Denial & Aging
+RMCB 1298,AJITH KUMAR K,EXPERITY,Quality Team Production,Transcation Audit_Aging/Denial Management
+RMCB 1298,AJITH KUMAR K,Iclaim,Quality Team Production,Process Audit_Denial & Aging
+RMCB 1298,AJITH KUMAR K,Iclaim,Quality Team Production,Transcation Audit_Aging/Denial Management
+RMCB 1393,AJITH KUMAR A,All,Quality Team Production,Process Audit_Denial & Aging
+RMCB 1393,AJITH KUMAR A,All,Quality Team Production,Transcation Audit_AR Calling/Analysis
+RMCB 1629,GOWTHAM PERUMALSAMY,Cerner,Quality Team Production,Process Audit_Payment Posting
+RMCB 1629,GOWTHAM PERUMALSAMY,Cerner,Quality Team Production,Training_Payment Posting
+RMCB 1629,GOWTHAM PERUMALSAMY,Cerner,Quality Team Production,Transcation Audit_Payment Posting
+RMCB 1629,GOWTHAM PERUMALSAMY,ECW,Quality Team Production,Training_Payment Posting
+RMCB 416,GOMATHI M,Cerner ,Quality Team Production,Process Audit_SB
+RMCB 416,GOMATHI M,Cerner ,Quality Team Production,Transcation Audit_SB
+RMCB 430,NANDHINI RAMAKRISHNAN,Iclaim,Quality Team Production,Process Audit_SB
+RMCB 430,NANDHINI RAMAKRISHNAN,Iclaim,Quality Team Production,Transcation Audit_SB
+RMCB 596,DURGA A,Advanced MD,Quality Team Production,Process Audit_SB
+RMCB 596,DURGA A,Advanced MD,Quality Team Production,Transcation Audit_SB
+RMCB 596,DURGA A,ECW,Quality Team Production,Process Audit_Pending Charge/Rejection Validation
+RMCB 596,DURGA A,ECW,Quality Team Production,Process Audit_SB
+RMCB 596,DURGA A,ECW,Quality Team Production,Training_SB
+RMCB 596,DURGA A,ECW,Quality Team Production,Transcation Audit_SB
+RMCB 596,DURGA A,GMED,Quality Team Production,Transcation Audit_SB
+RMCB 759,SHARMILA A,EXPERITY,Quality Team Production,Process Audit_Pending Charge/Rejection Validation
+RMCB 759,SHARMILA A,EXPERITY,Quality Team Production,Process Audit_SB
+RMCB 759,SHARMILA A,EXPERITY,Quality Team Production,Transcation Audit_SB
+RMCB 845,BOOBALAN V,Cerner,Quality Team Production,Transcation Audit_Aging/Denial Management
+RMCB 845,BOOBALAN V,Cerner,Quality Team Production,Transcation Audit_Correspondence
+RMCB 845,BOOBALAN V,ECW,Quality Team Production,Process Audit_Denial & Aging
+RMCB 845,BOOBALAN V,ECW,Quality Team Production,Transcation Audit_Aging/Denial Management
+RMCB 845,BOOBALAN V,ECW ,Quality Team Production,Transcation Audit_Aging/Denial Management
+RMCB 845,BOOBALAN V,EXPERITY,Quality Team Production,Process Audit_Denial & Aging
+RMCB 845,BOOBALAN V,EXPERITY,Quality Team Production,Transcation Audit_Aging/Denial Management
+RMCB 845,BOOBALAN V,GMED,Quality Team Production,Transcation Audit_Aging/Denial Management
+RMCB 845,BOOBALAN V,Medinfomatrix,Quality Team Production,Transcation Audit_Aging/Denial Management
+RMCB 941,GOKULAPRIYA ,Cerner ,Quality Team Production,Process Audit_Payment Posting
+RMCB 941,GOKULAPRIYA ,Cerner ,Quality Team Production,Transcation Audit_Payment Posting
+RMCB 1010,HANEEF B,Iclaim,SB,Charge Entry
+RMCB 1010,HANEEF B,Iclaim,SB,Copay Batch
+RMCB 1010,HANEEF B,Iclaim,SB,HCFA - To print
+RMCB 1010,HANEEF B,Iclaim,SB,Rejections
+RMCB 1027,PRAJEESH R,Cerner,SB,Charge Audit
+RMCB 1027,PRAJEESH R,Cerner,SB,Charge Entry
+RMCB 1027,PRAJEESH R,Cerner,SB,Eligibility
+RMCB 1027,PRAJEESH R,Cerner,SB,Rejection
+RMCB 1048,SNEHA D,Cerner,SB,Appointments Error
+RMCB 1048,SNEHA D,Cerner,SB,Charge Entry
+RMCB 1048,SNEHA D,Cerner,SB,Eligibility
+RMCB 1048,SNEHA D,Cerner,SB,Failed Edits
+RMCB 1048,SNEHA D,Cerner,SB,IDAM PtCall Review
+RMCB 1048,SNEHA D,Cerner,SB,Misc
+RMCB 1048,SNEHA D,Cerner,SB,Rejection
+RMCB 1048,SNEHA D,Cerner,SB,Selfpay Adjustment Taken
+RMCB 1055,VENKATESH S,Cerner,SB,Charge Entry
+RMCB 1055,VENKATESH S,Cerner,SB,Demo
+RMCB 1055,VENKATESH S,Cerner,SB,Eligibility
+RMCB 1055,VENKATESH S,Cerner,SB,Failed Edits
+RMCB 1055,VENKATESH S,Cerner,SB,Misc
+RMCB 1055,VENKATESH S,Cerner,SB,Rejection
+RMCB 1056,KETHARNATH YOGARAJ,Cerner,SB,Charge Audit
+RMCB 1056,KETHARNATH YOGARAJ,Cerner,SB,Charge Entry
+RMCB 1056,KETHARNATH YOGARAJ,Cerner,SB,Demo
+RMCB 1056,KETHARNATH YOGARAJ,Cerner,SB,Eligibility
+RMCB 1056,KETHARNATH YOGARAJ,Cerner,SB,Hold Reviewedand released
+RMCB 1056,KETHARNATH YOGARAJ,Cerner,SB,Rejection
+RMCB 1059,KARTHIK K,Cerner,SB,Charge Entry
+RMCB 1059,KARTHIK K,Cerner,SB,Demo
+RMCB 1059,KARTHIK K,Cerner,SB,Eligibility
+RMCB 1059,KARTHIK K,Cerner,SB,Hold Reviewedand released
+RMCB 1059,KARTHIK K,Cerner,SB,Rejection
+RMCB 1122,JANIKA M,Cerner,SB,Appointments Error
+RMCB 1122,JANIKA M,Cerner,SB,Charge Entry
+RMCB 1122,JANIKA M,Cerner,SB,Eligibility
+RMCB 1122,JANIKA M,Cerner,SB,Hold Reviewedand released
+RMCB 1122,JANIKA M,Cerner,SB,Rejection
+RMCB 1125,MATHUMITHA S,Cerner,SB,APCM
+RMCB 1125,MATHUMITHA S,Cerner,SB,Charge Entry
+RMCB 1125,MATHUMITHA S,Cerner,SB,Charge Entry Manual
+RMCB 1125,MATHUMITHA S,Cerner,SB,Charge Entry WoundDoc
+RMCB 1125,MATHUMITHA S,Cerner,SB,Collection
+RMCB 1125,MATHUMITHA S,Cerner,SB,Credit
+RMCB 1125,MATHUMITHA S,Cerner,SB,Demo
+RMCB 1125,MATHUMITHA S,Cerner,SB,Eligibility
+RMCB 1125,MATHUMITHA S,Cerner,SB,Hold Reviewedand released
+RMCB 1125,MATHUMITHA S,Cerner,SB,IDAM PtCall Review
+RMCB 1125,MATHUMITHA S,Cerner,SB,Misc
+RMCB 1125,MATHUMITHA S,Cerner,SB,RC Text
+RMCB 1125,MATHUMITHA S,Cerner,SB,Revspring Updated
+RMCB 1125,MATHUMITHA S,Cerner,SB,Selfpay Adjustment Taken
+RMCB 1125,MATHUMITHA S,Cerner,SB,Statement
+RMCB 1156,NIVIN J,Cerner,SB,APCM
+RMCB 1156,NIVIN J,Cerner,SB,Charge Audit
+RMCB 1156,NIVIN J,Cerner,SB,Charge Entry
+RMCB 1156,NIVIN J,Cerner,SB,Demo
+RMCB 1156,NIVIN J,Cerner,SB,Eligibility
+RMCB 1156,NIVIN J,Cerner,SB,IDAM PtCall Review
+RMCB 1156,NIVIN J,Cerner,SB,Misc
+RMCB 1156,NIVIN J,Cerner,SB,RC Text
+RMCB 1156,NIVIN J,Cerner,SB,Rejection
+RMCB 1156,NIVIN J,Cerner,SB,Selfpay Adjustment Taken
+RMCB 1171,KOWSALYA K,EXPERITY,SB,Charge Entry
+RMCB 1191,SABAREESWARAN S,Cerner,SB,Collection
+RMCB 1191,SABAREESWARAN S,Cerner,SB,Misc
+RMCB 1191,SABAREESWARAN S,Cerner,SB,Rejection
+RMCB 1191,SABAREESWARAN S,Cerner,SB,Statement
+RMCB 1217,JOHERBET B,Advanced MD,SB,Charge Entry
+RMCB 1217,JOHERBET B,Advanced MD,SB,Emails
+RMCB 1217,JOHERBET B,Advanced MD,SB,Exclusion & Unbilled
+RMCB 1217,JOHERBET B,Advanced MD,SB,Pending list Worked
+RMCB 1217,JOHERBET B,Advanced MD,SB,Quest Lab Weekly Tally
+RMCB 1217,JOHERBET B,EXPERITY,SB,Charge Entry
+RMCB 1231,DIVYA S,ECW,SB,Charge Entry
+RMCB 1231,DIVYA S,EXPERITY,SB,Charge Entry
+RMCB 1255,NAVEEN N,Iclaim,SB,Charge Entry
+RMCB 1255,NAVEEN N,Iclaim,SB,Copay Batch
+RMCB 1255,NAVEEN N,Iclaim,SB,Demo Entry (Including EV)
+RMCB 1255,NAVEEN N,Iclaim,SB,KI Extract
+RMCB 1256,KAVYA T,Iclaim,SB,Audit - Charge Entry
+RMCB 1256,KAVYA T,Iclaim,SB,CALL PT
+RMCB 1256,KAVYA T,Iclaim,SB,Call PT
+RMCB 1256,KAVYA T,Iclaim,SB,Charge Entry
+RMCB 1256,KAVYA T,Iclaim,SB,Copay Batch
+RMCB 1256,KAVYA T,Iclaim,SB,HCFA - To print
+RMCB 1256,KAVYA T,Iclaim,SB,Rejections
+RMCB 1273,TAMILSELVAN K,Iclaim,SB,Download
+RMCB 1282,IYYAMMAL R,EXPERITY,SB,Charge Entry
+RMCB 1301,VINITH V,Iclaim,SB,Charge Entry
+RMCB 1301,VINITH V,Iclaim,SB,Copay Batch
+RMCB 1311,SUNILKUMAR M,Iclaim,SB,Audit - Charge Entry
+RMCB 1311,SUNILKUMAR M,Iclaim,SB,Charge Entry
+RMCB 1311,SUNILKUMAR M,Iclaim,SB,Copay Batch
+RMCB 1311,SUNILKUMAR M,Iclaim,SB,Demo Entry (Including EV)
+RMCB 1311,SUNILKUMAR M,Iclaim,SB,No show
+RMCB 1311,SUNILKUMAR M,Iclaim,SB,Prescrub
+RMCB 1311,SUNILKUMAR M,Iclaim,SB,Rejections
+RMCB 1312,SWETHA S,ECW,SB,Charge Entry
+RMCB 1312,SWETHA S,EXPERITY,SB,Charge Entry
+RMCB 1383,KAVIYA R,EXPERITY,SB,Charge Audit
+RMCB 1383,KAVIYA R,EXPERITY,SB,Charge Entry
+RMCB 1383,KAVIYA R,EXPERITY,SB,Corrected claim submission
+RMCB 1383,KAVIYA R,EXPERITY,SB,Eligibility Verified
+RMCB 1383,KAVIYA R,EXPERITY,SB,Emails
+RMCB 1383,KAVIYA R,EXPERITY,SB,Idam Patient Call
+RMCB 1383,KAVIYA R,EXPERITY,SB,Pending list Worked
+RMCB 1383,KAVIYA R,EXPERITY,SB,REJECTION
+RMCB 1384,SUGUMAR M,ECW,SB,Charge Entry
+RMCB 1384,SUGUMAR M,EXPERITY,SB,Charge Entry
+RMCB 1387,SANTHIYA S,Iclaim,SB,Download
+RMCB 1389,AARTHI KUMARI H,EXPERITY,SB,Charge Entry
+RMCB 1389,AARTHI KUMARI H,EXPERITY,SB,Charge Pending claims Reviewed
+RMCB 1389,AARTHI KUMARI H,EXPERITY,SB,Eligibility Verified
+RMCB 1389,AARTHI KUMARI H,EXPERITY,SB,Emails
+RMCB 1389,AARTHI KUMARI H,EXPERITY,SB,Idam Patient Call
+RMCB 1389,AARTHI KUMARI H,EXPERITY,SB,Pending list Worked
+RMCB 1389,AARTHI KUMARI H,EXPERITY,SB,REJECTION
+RMCB 1422,GOWTHAM K,ECW,SB,Charge Entry
+RMCB 1422,GOWTHAM K,EXPERITY,SB,Charge Entry
+RMCB 1447,VINDIYA S,GMED,SB,Charge Entry
+RMCB 1447,VINDIYA S,GMED,SB,Demographics Entry
+RMCB 1447,VINDIYA S,GMED,SB,Rejection
+RMCB 1448,KARUNYA S,GMED,SB,Charge Entry
+RMCB 1448,KARUNYA S,GMED,SB,Demographics Entry
+RMCB 1448,KARUNYA S,GMED,SB,Rejection
+RMCB 1507,PRAVEEN R,Iclaim,SB,Charge Entry
+RMCB 1507,PRAVEEN R,Iclaim,SB,Demo Entry (Including EV)
+RMCB 1509,PREMALATHA K,Advanced MD,SB,Corrected claim submission
+RMCB 1509,PREMALATHA K,EXPERITY,SB,Charge Entry
+RMCB 1509,PREMALATHA K,EXPERITY,SB,Eligibility Verified
+RMCB 1509,PREMALATHA K,EXPERITY,SB,Emails
+RMCB 1509,PREMALATHA K,EXPERITY,SB,Idam Patient Call
+RMCB 1509,PREMALATHA K,EXPERITY,SB,Pending list Worked
+RMCB 1509,PREMALATHA K,EXPERITY,SB,REJECTION
+RMCB 1510,MAHESHWARI K,EXPERITY,SB,Charge Entry
+RMCB 1510,MAHESHWARI K,EXPERITY,SB,Eligibility Verified
+RMCB 1510,MAHESHWARI K,EXPERITY,SB,Idam Patient Call
+RMCB 1510,MAHESHWARI K,EXPERITY,SB,Pending list Worked
+RMCB 1510,MAHESHWARI K,EXPERITY,SB,REJECTION
+RMCB 1510,MAHESHWARI K,EXPERITY,SB,SJC AUDIT
+RMCB 1512,SANTHOSH D,EXPERITY,SB,Charge Entry
+RMCB 1517,NIVETHA SHREE D,EXPERITY,SB,Charge Entry
+RMCB 1517,NIVETHA SHREE D,EXPERITY,SB,Corrected claim submission
+RMCB 1517,NIVETHA SHREE D,EXPERITY,SB,Emails
+RMCB 1517,NIVETHA SHREE D,EXPERITY,SB,Idam Patient Call
+RMCB 1517,NIVETHA SHREE D,EXPERITY,SB,Pending list Worked
+RMCB 1517,NIVETHA SHREE D,EXPERITY,SB,REJECTION
+RMCB 1517,NIVETHA SHREE D,EXPERITY,SB,WC Claims Worked
+RMCB 1518,THENMOZHI S,Cerner,SB,APCM
+RMCB 1518,THENMOZHI S,Cerner,SB,Appointments Error
+RMCB 1518,THENMOZHI S,Cerner,SB,Eligibility
+RMCB 1518,THENMOZHI S,Cerner,SB,Hold Reviewedand released
+RMCB 1518,THENMOZHI S,Cerner,SB,Misc
+RMCB 1518,THENMOZHI S,Cerner,SB,Rejection
+RMCB 1520,SRI VASIKARAN R,Advanced MD,SB,Charge Entry
+RMCB 1525,HARISH RAMALINGAM,Cerner,SB,APCM
+RMCB 1525,HARISH RAMALINGAM,Cerner,SB,Charge Entry
+RMCB 1525,HARISH RAMALINGAM,Cerner,SB,Charge Entry WoundDoc
+RMCB 1525,HARISH RAMALINGAM,Cerner,SB,Eligibility
+RMCB 1525,HARISH RAMALINGAM,Cerner,SB,Hold Reviewedand released
+RMCB 1525,HARISH RAMALINGAM,Cerner,SB,IR Demo & Eligibility
+RMCB 1525,HARISH RAMALINGAM,Cerner,SB,Misc
+RMCB 1525,HARISH RAMALINGAM,Cerner,SB,Rejection
+RMCB 1525,HARISH RAMALINGAM,Cerner,SB,Selfpay Adjustment Taken
+RMCB 1526,MANJEESWARI S,Cerner,SB,Eligibility
+RMCB 1526,MANJEESWARI S,Cerner,SB,Rejection
+RMCB 1538,KANIMOZHI M,Cerner,SB,APCM
+RMCB 1538,KANIMOZHI M,Cerner,SB,Appointments Error
+RMCB 1538,KANIMOZHI M,Cerner,SB,Eligibility
+RMCB 1538,KANIMOZHI M,Cerner,SB,Hold Reviewedand released
+RMCB 1538,KANIMOZHI M,Cerner,SB,Misc
+RMCB 1538,KANIMOZHI M,Cerner,SB,Rejection
+RMCB 1558,GUNASEELAN M,Iclaim,SB,Charge Entry
+RMCB 1558,GUNASEELAN M,Iclaim,SB,Copay Batch
+RMCB 1558,GUNASEELAN M,Iclaim,SB,Demo Entry (Including EV)
+RMCB 1559,GOKUL N,MD LAND,SB,Charge Entry
+RMCB 1559,GOKUL N,MD LAND,SB,Demo Entry (Including EV)
+RMCB 1580,JANANI S,Cerner,SB,APCM
+RMCB 1580,JANANI S,Cerner,SB,Charge Entry
+RMCB 1580,JANANI S,Cerner,SB,Eligibility
+RMCB 1580,JANANI S,Cerner,SB,Failed Edits
+RMCB 1580,JANANI S,Cerner,SB,Hold Reviewedand released
+RMCB 1580,JANANI S,Cerner,SB,Rejection
+RMCB 1583,GOPALAKRISHNAN M,EXPERITY,SB,REJECTION
+RMCB 1587,KAVITHA SENTHILKUMAR,Iclaim,SB,Audit - Charge Entry
+RMCB 1587,KAVITHA SENTHILKUMAR,Iclaim,SB,CALL PT
+RMCB 1587,KAVITHA SENTHILKUMAR,Iclaim,SB,Call PT
+RMCB 1587,KAVITHA SENTHILKUMAR,Iclaim,SB,Charge Entry
+RMCB 1587,KAVITHA SENTHILKUMAR,Iclaim,SB,Copay Batch
+RMCB 1587,KAVITHA SENTHILKUMAR,Iclaim,SB,Demo Entry (Including EV)
+RMCB 1587,KAVITHA SENTHILKUMAR,Iclaim,SB,Pending List
+RMCB 1587,KAVITHA SENTHILKUMAR,Iclaim,SB,Rejections
+RMCB 1598,KAVIYALAKSHMI G,ECW,SB,Charge Entry
+RMCB 1625,RAGUL M,Iclaim,SB,Charge Entry
+RMCB 1625,RAGUL M,Iclaim,SB,Copay Batch
+RMCB 1625,RAGUL M,Iclaim,SB,Demo Entry (Including EV)
+RMCB 1632,NITHIA R,Iclaim,SB,Charge Entry
+RMCB 1633,APARNA J,Iclaim,SB,Charge Entry
+RMCB 1634,KISHORE M,Iclaim,SB,Charge Entry
+RMCB 1634,KISHORE M,Iclaim,SB,Copay Batch
+RMCB 1634,KISHORE M,Iclaim,SB,Demo Entry (Including EV)
+RMCB 1634,KISHORE M,Iclaim,SB,Pending List
+RMCB 1636,JOHN A,Cerner,SB,Eligibility
+RMCB 1638,MADHANKUMAR SHANMUGAM,Cerner,SB,Collection
+RMCB 1638,MADHANKUMAR SHANMUGAM,Cerner,SB,Error Reviewed
+RMCB 1638,MADHANKUMAR SHANMUGAM,Cerner,SB,Statement
+RMCB 1639,SARANDEEP KRISHNAMOORTHI,Cerner,SB,Eligibility
+RMCB 1639,SARANDEEP KRISHNAMOORTHI,Cerner,SB,Hold Reviewedand released
+RMCB 1639,SARANDEEP KRISHNAMOORTHI,Cerner,SB,IR Demo & Eligibility
+RMCB 1640,AAKASH KUMAR R,Cerner,SB,Collection
+RMCB 1640,AAKASH KUMAR R,Cerner,SB,Error Reviewed
+RMCB 1640,AAKASH KUMAR R,Cerner,SB,Statement
+RMCB 1641,SURYA T,Cerner,SB,Demo
+RMCB 1641,SURYA T,Cerner,SB,Eligibility
+RMCB 1648,RAGHUL PRASATH,Iclaim,SB,Charge Entry
+RMCB 400,NANDHINI N,Advanced MD,SB,Charge Entry
+RMCB 400,NANDHINI N,Advanced MD,SB,Exclusion & Unbilled
+RMCB 400,NANDHINI N,Advanced MD,SB,Pending list Worked
+RMCB 400,NANDHINI N,EXPERITY,SB,Charge Entry
+RMCB 662,RAMYA,Iclaim,SB,Audit - Charge Entry
+RMCB 662,RAMYA,Iclaim,SB,Charge Entry
+RMCB 662,RAMYA,Iclaim,SB,Claim submission(Billing)
+RMCB 662,RAMYA,Iclaim,SB,Copay Batch
+RMCB 662,RAMYA,Iclaim,SB,Demo Entry (Including EV)
+RMCB 662,RAMYA,Iclaim,SB,Pending List
+RMCB 662,RAMYA,Iclaim,SB,Prescrub
+RMCB 662,RAMYA,Iclaim,SB,Rejections
+RMCB 662,RAMYA,Iclaim,SB,SWID Master Excel Update
+RMCB 791,GOGUL PRASANTH K,Cerner,SB,Charge Entry
+RMCB 791,GOGUL PRASANTH K,Cerner,SB,Eligibility
+RMCB 791,GOGUL PRASANTH K,Cerner,SB,Hold Reviewedand released
+RMCB 791,GOGUL PRASANTH K,Cerner,SB,Misc
+RMCB 791,GOGUL PRASANTH K,Cerner,SB,Rejection
+RMCB 841,JEEVITHA B,EXPERITY,SB,Charge Entry
+RMCB 841,JEEVITHA B,EXPERITY,SB,Emails
+RMCB 841,JEEVITHA B,EXPERITY,SB,Idam Patient Call
+RMCB 841,JEEVITHA B,EXPERITY,SB,Internal messages
+RMCB 841,JEEVITHA B,EXPERITY,SB,Pending list Worked
+RMCB 841,JEEVITHA B,EXPERITY,SB,REJECTION
+RMCB 841,JEEVITHA B,EXPERITY,SB,WC Claims Worked
+RMCB 841,JEEVITHA B,EXPERITY,SB,Waystar Attachment claims
+RMCB 841,JEEVITHA B,EXPERITY,SB,Waystar Tally Verified
+RMCB 842,PRAVEEN KUMAR B,Iclaim,SB,Charge Entry
+RMCB 842,PRAVEEN KUMAR B,Iclaim,SB,Demo Entry (Including EV)
+RMCB 876,PRAVEENKUMAR�SINGARAM,Iclaim,SB,Audit - Charge Entry
+RMCB 876,PRAVEENKUMAR�SINGARAM,Iclaim,SB,Charge Entry
+RMCB 876,PRAVEENKUMAR�SINGARAM,Iclaim,SB,Claim submission(Billing)
+RMCB 876,PRAVEENKUMAR�SINGARAM,Iclaim,SB,Copay Batch
+RMCB 876,PRAVEENKUMAR�SINGARAM,Iclaim,SB,Download
+RMCB 876,PRAVEENKUMAR�SINGARAM,Iclaim,SB,HCFA - To print
+RMCB 876,PRAVEENKUMAR�SINGARAM,Iclaim,SB,Prescrub
+RMCB 971,NISHANTH R,ECW,SB,Charge Entry
+RMCB 971,NISHANTH R,EXPERITY,SB,Charge Entry
+RMCB 1077,MEENAKSHI N,None,None,None
+RMCB 1078,ANANDAN  K,None,None,None
+RMCB 12,SARAVANAKUMAR K,None,None,None
+RMCB 1221,THOMAS CHACKO S,None,None,None
+RMCB 1295,SUSEELA R,None,None,None
+RMCB 1299,SUNDARARAJAN,None,None,None
+RMCB 1307,SENATHIPATHY PS ,None,None,None
+RMCB 1314,VIJAY M,None,None,None
+RMCB 1317,KARTHICK R,None,None,None
+RMCB 1328,DANIEL S,None,None,None
+RMCB 1425,KARTHIKEYAN V,None,None,None
+RMCB 1426,SATHISH KUMAR R,None,None,None
+RMCB 1485,KAMALRAJ D,None,None,None
+RMCB 1490,THIYAKESH RAJU,None,None,None
+RMCB 1502,SHARATH KUMAR R,None,None,None
+RMCB 1522,PANDEY DEEPAKKUMAR,None,None,None
+RMCB 1531,MOHAMED MOHAIDEEN AALISHER,None,None,None
+RMCB 1534,SNEHA VISHNU MUPPIDI,None,None,None
+RMCB 1543,SREEJITH UNNI,None,None,None
+RMCB 1547,DHILIPKUMAR SHANMUGAM,None,None,None
+RMCB 1551,YOGESHWARAN V,None,None,None
+RMCB 1561,VIJAY R,None,None,None
+RMCB 1566,DINESH M,None,None,None
+RMCB 1592,K JAYAKARAN,None,None,None
+RMCB 1597,SEENIVASAN V,None,None,None
+RMCB 1601,SANJEEV R,None,None,None
+RMCB 1602,SURESH B,None,None,None
+RMCB 1603,BHARATHI,None,None,None
+RMCB 1624,PUGALNEELAVENKATESH P R,None,None,None
+RMCB 1642,KATHIRVEL MURUGAN P,None,None,None
+RMCB 1643,KARTHIKEYAN T,None,None,None
+RMCB 225,ANANDARAJ G,None,None,None
+RMCB 270,SUBHIKSHA.P,None,None,None
+RMCB 408,KARTHIKEYAN T,None,None,None
+RMCB 43,ARUN KUMAR .R,None,None,None
+RMCB 453,NARESH N,None,None,None
+RMCB 486,KARTHIKEYAN N,None,None,None
+RMCB 493,SAM AUGUSTINE SUTHAKAR S,None,None,None
+RMCB 727,SABARISH R,None,None,None
+RMCB 743,BASIRIYA BEGUM M,None,None,None
+RMCB 8,ANBURAJ.G,None,None,None
+RMCB 895,VINOD AGUSTUS A,None,None,None
+RMCB 9,HITHAYATHULLAH.A,None,None,None
+RMCB 929,RAJESHWARI S,None,None,None
+RMCB 939,KARTHIBAN,None,None,None
+RMCB 945,ARUNPANDIAN K,None,None,None
+RMCB 976,ARIYANANDHANAN S,None,None,None
