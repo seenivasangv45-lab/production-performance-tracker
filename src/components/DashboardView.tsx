@@ -362,6 +362,8 @@ export const DashboardView: React.FC = () => {
         target: prod.target,
         achieved: prod.achieved,
         accuracy: prod.accuracy,
+        auditedCount: prod.auditedCount,
+        errorCategory: prod.errorCategory,
         hoursWorked: att ? att.hoursWorked : 8,
         onLeave: att ? att.onLeave : false,
         isRampUp,
@@ -1062,7 +1064,17 @@ export const DashboardView: React.FC = () => {
 
   // Process Stats (Department grouping) for Radar and Bar charts
   const dynamicProcessStats = useMemo(() => {
-    const processGroupMap: { [key: string]: { achieved: number; target: number; sumAcc: number; count: number } } = {};
+    const processGroupMap: {
+      [key: string]: {
+        achieved: number;
+        target: number;
+        sumAcc: number;
+        count: number;
+        totalAudited: number;
+        totalErrors: number;
+        hasAudits: boolean;
+      }
+    } = {};
     
     const ALLOWED_PROCESSES = [
       "Quality",
@@ -1095,21 +1107,41 @@ export const DashboardView: React.FC = () => {
     filteredLogs.forEach(l => {
       const p = normalizeProcessName(l.process);
       if (!processGroupMap[p]) {
-        processGroupMap[p] = { achieved: 0, target: 0, sumAcc: 0, count: 0 };
+        processGroupMap[p] = { achieved: 0, target: 0, sumAcc: 0, count: 0, totalAudited: 0, totalErrors: 0, hasAudits: false };
       }
       processGroupMap[p].achieved += l.achieved;
       processGroupMap[p].target += l.target;
       processGroupMap[p].sumAcc += l.accuracy;
       processGroupMap[p].count += 1;
+
+      if (l.auditedCount !== undefined && l.auditedCount !== null) {
+        processGroupMap[p].totalAudited += l.auditedCount;
+        processGroupMap[p].hasAudits = true;
+        if (l.errorCategory) {
+          const cat = l.errorCategory.trim().toUpperCase();
+          if (cat !== 'FYI' && cat !== 'NO ERROR' && cat !== '') {
+            processGroupMap[p].totalErrors += 1;
+          }
+        }
+      }
     });
 
     return ALLOWED_PROCESSES.map(procName => {
-      const item = processGroupMap[procName] || { achieved: 0, target: 0, sumAcc: 0, count: 0 };
+      const item = processGroupMap[procName] || { achieved: 0, target: 0, sumAcc: 0, count: 0, totalAudited: 0, totalErrors: 0, hasAudits: false };
       const eff = item.target > 0 ? Math.round((item.achieved / item.target) * 10000) / 100 : 0;
-      const acc = item.count > 0 ? Math.round((item.sumAcc / item.count) * 100) / 100 : 0;
+      // Weighted accuracy: (Σ Audited − Σ Errors) / Σ Audited, matching the Quality % card.
+      // Falls back to a flat average of per-record accuracy only when no audit data exists,
+      // so a segment with a handful of agents never carries the same weight as one with
+      // thousands of audited transactions.
+      let acc = 0;
+      if (item.hasAudits && item.totalAudited > 0) {
+        acc = Math.round(((item.totalAudited - item.totalErrors) / item.totalAudited) * 10000) / 100;
+      } else if (item.count > 0) {
+        acc = Math.round((item.sumAcc / item.count) * 100) / 100;
+      }
       return {
         processName: procName,
-        avgEfficiency: Math.min(eff, 150), 
+        avgEfficiency: Math.min(eff, 150),
         avgAccuracy: item.count > 0 ? acc : 0,
         rawEff: eff,
         totalAchieved: item.achieved,
@@ -2230,10 +2262,10 @@ export const DashboardView: React.FC = () => {
                     <span>Avg Weekly Production = (Avg Daily Prod) × 6-day cycle</span>
                   )}
                   {selectedFormulaMetric === 'Productivity %' && (
-                    <span>Productivity % = Average of (Daily Achieved Claim Volume / Hours-Scaled Target) × 100</span>
+                    <span>Productivity % = (Σ Achieved Claim Volume / Σ Hours-Scaled Target) × 100</span>
                   )}
                   {selectedFormulaMetric === 'Quality %' && (
-                    <span>Quality % = (Sum of Active Agent Quality Ratings) / (Total Evaluated Days Count)</span>
+                    <span>Quality % = (Σ Transactions Audited − Σ Errors) / Σ Transactions Audited × 100</span>
                   )}
                   {selectedFormulaMetric === 'Shrinkage %' && (
                     <span>Shrinkage % = (Hours Shortfall / Expected Scheduled Capacity) × 100</span>
@@ -2290,12 +2322,12 @@ export const DashboardView: React.FC = () => {
                     {selectedFormulaMetric === 'Productivity %' && (
                       <>
                         <div className="flex justify-between font-medium">
-                          <span className="text-slate-500">Sum of Daily Efficiencies:</span>
-                          <span className="font-mono font-bold text-slate-800">{Math.round(calculatedStats.agentSumEff || 0).toLocaleString()}%</span>
+                          <span className="text-slate-500">Σ Achieved (Agents):</span>
+                          <span className="font-mono font-bold text-slate-800">{Math.round(calculatedStats.agentSumEff || 0).toLocaleString()} units</span>
                         </div>
                         <div className="flex justify-between font-medium">
-                          <span className="text-slate-500">Evaluated Days Count:</span>
-                          <span className="font-mono font-bold text-slate-800">{calculatedStats.agentEffCount || 0} days</span>
+                          <span className="text-slate-500">Σ Hours-Scaled Target:</span>
+                          <span className="font-mono font-bold text-slate-800">{Math.round(calculatedStats.agentEffCount || 0).toLocaleString()} units</span>
                         </div>
                       </>
                     )}
@@ -2303,12 +2335,12 @@ export const DashboardView: React.FC = () => {
                     {selectedFormulaMetric === 'Quality %' && (
                       <>
                         <div className="flex justify-between font-medium">
-                          <span className="text-slate-500">Sum of Quality Ratings:</span>
-                          <span className="font-mono font-bold text-slate-800">{Math.round(calculatedStats.agentSumAcc || 0).toLocaleString()}%</span>
+                          <span className="text-slate-500">Σ Audited − Σ Errors:</span>
+                          <span className="font-mono font-bold text-slate-800">{Math.round(calculatedStats.agentSumAcc || 0).toLocaleString()}</span>
                         </div>
                         <div className="flex justify-between font-medium">
-                          <span className="text-slate-500">Evaluated Days Count:</span>
-                          <span className="font-mono font-bold text-slate-800">{calculatedStats.agentEffCount || 0} days</span>
+                          <span className="text-slate-500">Σ Transactions Audited:</span>
+                          <span className="font-mono font-bold text-slate-800">{Math.round(calculatedStats.agentEffCountQuality || 0).toLocaleString()}</span>
                         </div>
                       </>
                     )}
@@ -2366,10 +2398,10 @@ export const DashboardView: React.FC = () => {
                             <span>{calculatedStats.avgDailyProduction || 0} × 6 = {calculatedStats.avgWeeklyProduction || 0}</span>
                           )}
                           {selectedFormulaMetric === 'Productivity %' && (
-                            <span>{Math.round(calculatedStats.agentSumEff || 0).toLocaleString()}% ÷ {calculatedStats.agentEffCount || 0} = {formatPercent(calculatedStats.agentProductivityPct)}</span>
+                            <span>({Math.round(calculatedStats.agentSumEff || 0).toLocaleString()} ÷ {Math.round(calculatedStats.agentEffCount || 0).toLocaleString()}) × 100 = {formatPercent(calculatedStats.agentProductivityPct)}</span>
                           )}
                           {selectedFormulaMetric === 'Quality %' && (
-                            <span>{Math.round(calculatedStats.agentSumAcc || 0).toLocaleString()}% ÷ {calculatedStats.agentEffCount || 0} = {formatPercent(calculatedStats.agentQualityPct)}</span>
+                            <span>({Math.round(calculatedStats.agentSumAcc || 0).toLocaleString()} ÷ {Math.round(calculatedStats.agentEffCountQuality || 0).toLocaleString()}) × 100 = {formatPercent(calculatedStats.agentQualityPct)}</span>
                           )}
                           {selectedFormulaMetric === 'Shrinkage %' && (
                             <span>({(calculatedStats.hoursShortfall || 0).toLocaleString()} ÷ {(calculatedStats.totalExpectedHours || 0).toLocaleString()}) × 100 = {formatPercent(calculatedStats.shrinkagePct)}</span>
@@ -2620,7 +2652,7 @@ export const DashboardView: React.FC = () => {
                         <span>Y-Value (Day) = ∑ Achieved Claims for Day, grouped chronologically. Target line = ∑ Assigned Baseline Targets for that day.</span>
                       )}
                       {selectedChartExplanation === 'Process Performance Profile' && (
-                        <span>Metrics plotted represent aggregated Process Streams. Accuracy is overall average QA %, and Attainment % = (∑ Achieved / ∑ Target) × 100.</span>
+                        <span>Metrics plotted represent aggregated Process Streams. Attainment % = (∑ Achieved / ∑ Target) × 100. Accuracy % = (∑ Audited − ∑ Errors) / ∑ Audited × 100 per segment (falls back to a flat average only when no audit data exists) — weighted so high-volume segments aren't diluted by segments with few audited transactions.</span>
                       )}
                       {selectedChartExplanation === 'Top 5 Star Performers' && (
                         <span>Sorts all active operators descending by average efficiency. Elite cohort is limited to the Top 5. Efficiency = (Achieved / Target) × 100.</span>
